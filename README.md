@@ -3,7 +3,7 @@ My name is Lisa and I'm a last year's student of the Cognitive System program at
 
 :bulb: Projects I'm currently working on: 
 - writing a review paper on the current state of Natural Language Processing in Reinforcement Learning 
-- learning how to use Tensorflow with Deeplearning.ai's Coursera course
+- practicing how to use Tensorflow with Deeplearning.ai's Coursera course
 
 :mailbox: You can reach me via [LinkedIn](https://www.linkedin.com/in/becker-lisa/) or beckerlisa93(:email:)gmail.com
 
