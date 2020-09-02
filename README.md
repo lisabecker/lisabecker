@@ -6,7 +6,7 @@ Previously, I've worked on medical data ([prediction of schizophrenia](https://g
 __________________________________________________________________________________________________________________________________________________________________
 
 :computer: Projects I'm working on September 2020: 
-- ![5%](https://progress-bar.dev/5) writing a review paper on the current state of Natural Language Processing in Reinforcement Learning 
+- ![10%](https://progress-bar.dev/10) writing a review paper on the current state of Natural Language Processing in Reinforcement Learning 
 - ![75%](https://progress-bar.dev/75) [DeepLearning.ai TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice "Link to Coursera's Course")
  certificate on Coursera (3 of 4 courses finished)
  - ![50%](https://progress-bar.dev/50) [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation#courses "Link to Coursera's Course")
