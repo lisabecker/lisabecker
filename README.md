@@ -7,8 +7,8 @@ Previously, I've worked on medical data ([prediction of schizophrenia](https://g
 
 __________________________________________________________________________________________________________________________________________________________________
 
-**:computer: Projects I'm working on September 2020:**
-- ![15%](https://progress-bar.dev/15) writing a review paper on the current state of Natural Language Processing in Reinforcement Learning (Updated 04/09)
+**:computer: Current Projects (September 2020):**
+- ![20%](https://progress-bar.dev/20) writing a review paper on the current state of Natural Language Processing in Reinforcement Learning (Updated 04/09)
 - ![75%](https://progress-bar.dev/75) [DeepLearning.ai TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice "Link to Coursera's Course") 
  certificate on Coursera (3 of 4 courses finished, Updated 01/09)
  - ![50%](https://progress-bar.dev/50) [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation#courses "Link to Coursera's Course") 
@@ -19,12 +19,13 @@ ________________________________________________________________________________
  __________________________________________________________________________________________________________________________________________________________________
 
  
- **:bulb: Future projects (from October 2020):**
+ **:bulb: Future Projects (from October 2020):**
  - ![0%](https://progress-bar.dev/0) Master's thesis. Interested in cooperating? Hit me up!
  
  __________________________________________________________________________________________________________________________________________________________________
 
-**Languages and tools:**
+**Languages and Tools:**
+
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="Python" width="50"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="Scikit-Learn" width="50"/>
