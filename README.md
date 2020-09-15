@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 **:computer: Current Projects (September 2020):**
 - ![100%](https://progress-bar.dev/100) writing a review paper on the SOTA of Natural Language Processing in Reinforcement Learning (Updated 14/09)
-- ![87%](https://progress-bar.dev/87) [DeepLearning.ai TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice "Link to Coursera's Course") 
+- ![100%](https://progress-bar.dev/100) [DeepLearning.ai TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice "Link to Coursera's Course") 
  certificate on Coursera (3 of 4 courses finished, Updated 10/09)
  - ![50%](https://progress-bar.dev/50) [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation#courses "Link to Coursera's Course") on Coursera (3 of 6 courses finished, Updated 01/09)
  - ![57%](https://progress-bar.dev/57) [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals#courses "Link to Coursera's Course")
