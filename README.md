@@ -7,19 +7,19 @@ Previously, I've worked on medical data ([prediction of schizophrenia](https://g
 
 __________________________________________________________________________________________________________________________________________________________________
 
-**:computer: Current Projects (September 2020):**
-- ![100%](https://progress-bar.dev/100) writing a review paper on the SOTA of Natural Language Processing in Reinforcement Learning (Updated 14/09)
-- ![100%](https://progress-bar.dev/100) [DeepLearning.ai TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice "Link to Coursera's Course") 
- certificate on Coursera (4 of 4 courses finished, Updated 15/09)
- - ![50%](https://progress-bar.dev/50) [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation#courses "Link to Coursera's Course") on Coursera (3 of 6 courses finished, Updated 01/09)
- - ![57%](https://progress-bar.dev/57) [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals#courses "Link to Coursera's Course")
- certificate on Coursera (4 of 7 courses finished, Updated 01/09)
- 
+**:book: Past Projects:**
+- 09/2020 ![100%](https://progress-bar.dev/100) writing a review paper on the SOTA of Natural Language Processing in Reinforcement Learning
+- 09/2020 ![100%](https://progress-bar.dev/100) [DeepLearning.ai TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice "Link to Coursera's Course") certificate on Coursera
+
  __________________________________________________________________________________________________________________________________________________________________
 
- 
- **:bulb: Future Projects (October 2020 - April 2021):**
- - ![0%](https://progress-bar.dev/0) Master's thesis: building an "intelligent illustrator" with GANs. Generating and editing images or illustrations based on text descriptions at the company ML6.
+ **:computer: Current Projects:**
+- ![0%](https://progress-bar.dev/0) Master's thesis: building an "intelligent illustrator" with GANs: an image editor with image-to-image translation.
+  - Literature review (3-4 weeks)
+- ![0%](https://progress-bar.dev/0) Generative Adversarial Networks (GANs) Specialization
+  - ![0%](https://progress-bar.dev/0) [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans)
+  - ![0%](https://progress-bar.dev/0) [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans)
+  - ![0%](https://progress-bar.dev/0) [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans)
  
  __________________________________________________________________________________________________________________________________________________________________
 
@@ -38,4 +38,13 @@ ________________________________________________________________________________
 [![Spotify](https://novatorem.lisabecker.vercel.app/api/spotify)](https://open.spotify.com/user/shiba93)
 
 [linkedin]: https://www.linkedin.com/in/becker-lisa/
+
+ __________________________________________________________________________________________________________________________________________________________________
+
+ **:fire: Backburner Projects:**
+- ![50%](https://progress-bar.dev/50) [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation#courses "Link to Coursera's Course") on Coursera (3 of 6 courses finished, Updated 01/09)
+- ![57%](https://progress-bar.dev/57) [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals#courses "Link to Coursera's Course")
+ certificate on Coursera (4 of 7 courses finished, Updated 01/09)
+- ![10%](https://progress-bar.dev/10) Build a personal homepage
+- ![0%](https://progress-bar.dev/10) Set up a humidity sensor for my orchid and track it with Grafana
 
