@@ -25,13 +25,13 @@ ________________________________________________________________________________
 
 **:wrench: Languages and Tools:**</br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="Tensorflow" width="50"/>
-<img src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" alt="PyTorch" width="50"/>
+<img src="https://github.com/valohai/ml-logos/raw/master/numpy-logo.svg" alt="NumPy" width="50"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="Scikit-Learn" width="50"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="Tensorflow" width="50"/>
+<img src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" alt="PyTorch" width="100"/>
 <img src="https://github.com/explosion/spaCy/raw/master/website/src/images/logo.svg" alt="SpaCy" width="100"/>
 <img src="https://github.com/jupyter/design/raw/master/logos/Rectangle%20Logo/rectanglelogo-greytext-orangebody-greymoons/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter" width="100"/>
 <img src="https://github.com/valohai/ml-logos/raw/master/pandas.svg" alt="Pandas" width="100"/>
-<img src="https://github.com/valohai/ml-logos/raw/master/numpy-logo.svg" alt="NumPy" width="50"/>
 <img src="https://camo.githubusercontent.com/27a6fe535791bdc7cfe877e27cbfd1f94ce8fe23/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39322f4c615465585f6c6f676f2e737667" alt="LaTex" width="80"/>
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.lisabecker.vercel.app/api?username=lisabecker&show_icons=true&hide_border=true&theme=vue"/>
