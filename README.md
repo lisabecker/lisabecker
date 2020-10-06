@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Lisa and I'm a last year's student of the [Cognitive Systems Master's program](https://www.ling.uni-potsdam.de/cogsys/ "Link to the University of Potsdam") at the University of Potsdam. That means that I'm specialised in Computational Linguistics, Natural Language Processing and Machine Learning. My main expertise lies in Python (numpy, pandas, nltk, scipy, sklearn, tensorflow/keras,...). I'll be starting my Master's thesis in October 2020 on an "intelligent illustrator" with GANs with the company [ML6](https://ml6.eu "Link to ML6")
+My name is Lisa and I'm a last year's student of the [Cognitive Systems Master's program](https://www.ling.uni-potsdam.de/cogsys/ "Link to the University of Potsdam") at the University of Potsdam. That means that I'm specialised in Computational Linguistics, Natural Language Processing and Machine Learning. My main expertise lies in Python (numpy, pandas, nltk, scipy, sklearn, tensorflow/keras,...). I'll be starting my Master's thesis in October 2020 on an "intelligent illustrator", an image-to-image translator based on textual input with GANs at the company [ML6](https://ml6.eu "Link to ML6").
 
 Previously, I've worked on medical data ([prediction of schizophrenia](https://github.com/lisabecker/IM_SchizophreniaPrediction "Link to Github repo") based on semantic jumps in written language output) with Walter Daelemans at the University of Antwerp, worked during [open Summer of code 2020](https://osoc.be/editions/2020 "Link to osoc20") on improving the [search engine experience of the research portal FRIS](https://osoc20.github.io/FRISteam/ "Link to the project") (Flemish government) and recently published my first [paper](https://convention2.allacademic.com/one/aera/aera20/index.php?program_focus=view_paper&selected_paper_id=1577876&cmd=online_program_direct_link&sub_action=online_program "Link to paper") in [text mining and classification](https://github.com/lisabecker/PM_TextMining_TeacherReportsClassification "Link to Github repo") of self-written reports in order to partially automatise grading processes in educational research and other projects. 
 
@@ -14,10 +14,10 @@ ________________________________________________________________________________
  __________________________________________________________________________________________________________________________________________________________________
 
  **:computer: Current Projects:**
-- ![0%](https://progress-bar.dev/0) Master's thesis: building an "intelligent illustrator" with GANs: an image editor with image-to-image translation.
+- ![1%](https://progress-bar.dev/1) Master's thesis: building an "intelligent illustrator" with GANs: an image editor with image-to-image translation.
   - Literature review (3-4 weeks) -> first presentation on TBD October 2020
-- ![1%](https://progress-bar.dev/1) Generative Adversarial Networks (GANs) Specialization
-  - ![5%](https://progress-bar.dev/5) [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans)
+- ![7%](https://progress-bar.dev/7) Generative Adversarial Networks (GANs) Specialization
+  - ![25%](https://progress-bar.dev/25) [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans)
   - ![0%](https://progress-bar.dev/0) [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans)
   - ![0%](https://progress-bar.dev/0) [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans)
  
