@@ -20,6 +20,7 @@ ________________________________________________________________________________
   - ![25%](https://progress-bar.dev/25) [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans)
   - ![0%](https://progress-bar.dev/0) [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans)
   - ![0%](https://progress-bar.dev/0) [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans)
+- ![1%](https://progress-bar.dev/1) Contribute at least 4 pull requests for [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
  
  __________________________________________________________________________________________________________________________________________________________________
 
