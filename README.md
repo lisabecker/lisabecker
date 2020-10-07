@@ -16,8 +16,8 @@ ________________________________________________________________________________
  **:computer: Current Projects:**
 - ![1%](https://progress-bar.dev/1) Master's thesis: building an "intelligent illustrator" with GANs: an image editor with image-to-image translation.
   - Literature review (3-4 weeks) -> first presentation on TBD October 2020
-- ![7%](https://progress-bar.dev/7) Generative Adversarial Networks (GANs) Specialization
-  - ![25%](https://progress-bar.dev/25) [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans)
+- ![14%](https://progress-bar.dev/14) Generative Adversarial Networks (GANs) Specialization
+  - ![50%](https://progress-bar.dev/50) [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans)
   - ![0%](https://progress-bar.dev/0) [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans)
   - ![0%](https://progress-bar.dev/0) [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans)
 - ![1%](https://progress-bar.dev/1) Contribute at least 4 pull requests for [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
