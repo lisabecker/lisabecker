@@ -17,7 +17,7 @@ ________________________________________________________________________________
 - ![1%](https://progress-bar.dev/1) Master's thesis: building an "intelligent illustrator" with GANs: an image editor with image-to-image translation. 
   - More details in the "Project" section my Github.
   - Literature review (3-4 weeks) -> first presentation on October 19th 2020
-- ![55%](https://progress-bar.dev/55) Generative Adversarial Networks (GANs) Specialization (Updated 28 Oct 2020)
+- ![80%](https://progress-bar.dev/80) Generative Adversarial Networks (GANs) Specialization (Updated 28 Oct 2020)
   - ![100%](https://progress-bar.dev/100) [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans) (Updated 14 Oct 2020)
   - ![100%](https://progress-bar.dev/100) [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans) (Updated 4 Nov 2020)
   - ![66%](https://progress-bar.dev/66) [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans) (Updated 5 Nov 2020)
