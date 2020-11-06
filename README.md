@@ -19,9 +19,9 @@ ________________________________________________________________________________
   - Literature review (3-4 weeks) -> first presentation on October 19th 2020
 - ![55%](https://progress-bar.dev/55) Generative Adversarial Networks (GANs) Specialization (Updated 28 Oct 2020)
   - ![100%](https://progress-bar.dev/100) [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans) (Updated 14 Oct 2020)
-  - ![66%](https://progress-bar.dev/66) [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans) (Updated 28 Oct 2020)
-  - ![0%](https://progress-bar.dev/0) [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans)
-- ![50%](https://progress-bar.dev/50) Contribute at least 4 pull requests for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) (Updated 8 Oct 2020)
+  - ![100%](https://progress-bar.dev/100) [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans) (Updated 4 Nov 2020)
+  - ![66%](https://progress-bar.dev/66) [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans) (Updated 5 Nov 2020)
+- ![100%](https://progress-bar.dev/100) Contribute at least 4 pull requests for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) (Updated 31 Oct 2020)
  
  __________________________________________________________________________________________________________________________________________________________________
 
