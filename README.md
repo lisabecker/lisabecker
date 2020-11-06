@@ -8,8 +8,9 @@ Previously, I've worked on medical data ([prediction of schizophrenia](https://g
 __________________________________________________________________________________________________________________________________________________________________
 
 **:book: Past Projects:**
-- 09/2020 ![100%](https://progress-bar.dev/100) writing a review paper on the SOTA of Natural Language Processing in Reinforcement Learning
+- 09/2020 ![100%](https://progress-bar.dev/100) writing a review paper on the SOTA of Natural Language Processing in Reinforcement Learning (Grade: 100%)
 - 09/2020 ![100%](https://progress-bar.dev/100) [DeepLearning.ai TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice "Link to Coursera's Course") certificate on Coursera
+- 10/2020 ![100%](https://progress-bar.dev/100) Contribute at least 4 pull requests for [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
  __________________________________________________________________________________________________________________________________________________________________
 
@@ -21,7 +22,6 @@ ________________________________________________________________________________
   - ![100%](https://progress-bar.dev/100) [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans) (Updated 14 Oct 2020)
   - ![100%](https://progress-bar.dev/100) [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans) (Updated 4 Nov 2020)
   - ![66%](https://progress-bar.dev/66) [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans) (Updated 5 Nov 2020)
-- ![100%](https://progress-bar.dev/100) Contribute at least 4 pull requests for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) (Updated 31 Oct 2020)
  
  __________________________________________________________________________________________________________________________________________________________________
 
