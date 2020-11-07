@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Lisa and I'm a last year's student of the [Cognitive Systems Master's program](https://www.ling.uni-potsdam.de/cogsys/ "Link to the University of Potsdam") at the University of Potsdam. That means that I'm specialised in Computational Linguistics, Natural Language Processing and Machine Learning. My main expertise lies in Python (numpy, pandas, nltk, scipy, sklearn, tensorflow/keras,...). I'll be starting my Master's thesis in October 2020 on an "intelligent illustrator", an image-to-image translator based on textual input with GANs at the company [ML6](https://ml6.eu "Link to ML6").
+My name is Lisa and I'm a last year's student of the [Cognitive Systems Master's program](https://www.ling.uni-potsdam.de/cogsys/ "Link to the University of Potsdam") at the University of Potsdam. That means that I'm specialised in Computational Linguistics, Natural Language Processing and Machine Learning. My main expertise lies in Python (numpy, pandas, nltk, scipy, sklearn, tensorflow/keras,...). I'll be starting my Master's thesis in October 2020 on an "intelligent illustrator", an image-to-image translator based on textual input with GANs at [ML6](https://ml6.eu "Link to ML6").
 
 Previously, I've worked on medical data ([prediction of schizophrenia](https://github.com/lisabecker/IM_SchizophreniaPrediction "Link to Github repo") based on semantic jumps in written language output) with Walter Daelemans at the University of Antwerp, worked during [open Summer of code 2020](https://osoc.be/editions/2020 "Link to osoc20") on improving the [search engine experience of the research portal FRIS](https://osoc20.github.io/FRISteam/ "Link to the project") (Flemish government) and recently published my first [paper](https://convention2.allacademic.com/one/aera/aera20/index.php?program_focus=view_paper&selected_paper_id=1577876&cmd=online_program_direct_link&sub_action=online_program "Link to paper") in [text mining and classification](https://github.com/lisabecker/PM_TextMining_TeacherReportsClassification "Link to Github repo") of self-written reports in order to partially automatise grading processes in educational research and other projects. 
 
@@ -11,6 +11,7 @@ ________________________________________________________________________________
 - 09/2020 ![100%](https://progress-bar.dev/100) writing a review paper on the SOTA of Natural Language Processing in Reinforcement Learning (Grade: 100%)
 - 09/2020 ![100%](https://progress-bar.dev/100) [DeepLearning.ai TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice "Link to Coursera's Course") certificate on Coursera
 - 10/2020 ![100%](https://progress-bar.dev/100) Contribute at least 4 pull requests for [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- 10/2020 ![100%](https://progress-bar.dev/100) Generative Adversarial Networks (GANs) Specialization
 
  __________________________________________________________________________________________________________________________________________________________________
 
@@ -18,10 +19,6 @@ ________________________________________________________________________________
 - ![1%](https://progress-bar.dev/1) Master's thesis: building an "intelligent illustrator" with GANs: an image editor with image-to-image translation. 
   - More details in the "Project" section my Github.
   - Literature review (3-4 weeks) -> first presentation on October 19th 2020
-- ![80%](https://progress-bar.dev/80) Generative Adversarial Networks (GANs) Specialization (Updated 28 Oct 2020)
-  - ![100%](https://progress-bar.dev/100) [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans) (Updated 14 Oct 2020)
-  - ![100%](https://progress-bar.dev/100) [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans) (Updated 4 Nov 2020)
-  - ![66%](https://progress-bar.dev/66) [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans) (Updated 5 Nov 2020)
  
  __________________________________________________________________________________________________________________________________________________________________
 
