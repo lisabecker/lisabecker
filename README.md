@@ -16,7 +16,7 @@ ________________________________________________________________________________
  __________________________________________________________________________________________________________________________________________________________________
 
  **:computer: Current Projects:**
-- ![15%](https://progress-bar.dev/1) Master's thesis: building an "intelligent illustrator" with GANs: an image editor with image-to-image translation. 
+- ![15%](https://progress-bar.dev/15) Master's thesis: building an "intelligent illustrator" with GANs: an image editor with image-to-image translation. 
   - More details in the "Project" section my Github.
   - [x] literature review (3-4 weeks) -> first presentation on October 19th 2020
   - [x] implement and test pix2pix
