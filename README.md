@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Lisa and I'm a last year's student of the [Cognitive Systems Master's program](https://www.ling.uni-potsdam.de/cogsys/ "Link to the University of Potsdam") at the University of Potsdam. That means that I'm specialised in Computational Linguistics, Natural Language Processing and Machine Learning. My main expertise lies in Python (numpy, pandas, nltk, scipy, sklearn, tensorflow/keras,...). I'll be starting my Master's thesis in October 2020 on an "intelligent illustrator", an image-to-image translator based on textual input with GANs at [ML6](https://ml6.eu "Link to ML6").
+My name is Lisa and I'm a last year's student of the [Cognitive Systems Master's program](https://www.ling.uni-potsdam.de/cogsys/ "Link to the University of Potsdam") at the University of Potsdam. That means that I'm specialised in Computational Linguistics, Natural Language Processing and Machine Learning. My main expertise lies in Python (numpy, pandas, nltk, scipy, sklearn, tensorflow/keras,...). I'm currently writing my Master's thesis in October 2020 on an "intelligent illustrator", a text-guided image-to-image translator with GANs at [ML6](https://ml6.eu "Link to ML6") and will graduate in March 2021.
 
 Previously, I've worked on medical data ([prediction of schizophrenia](https://github.com/lisabecker/IM_SchizophreniaPrediction "Link to Github repo") based on semantic jumps in written language output) with Walter Daelemans at the University of Antwerp, worked during [open Summer of code 2020](https://osoc.be/editions/2020 "Link to osoc20") on improving the [search engine experience of the research portal FRIS](https://osoc20.github.io/FRISteam/ "Link to the project") (Flemish government) and recently published my first [paper](https://convention2.allacademic.com/one/aera/aera20/index.php?program_focus=view_paper&selected_paper_id=1577876&cmd=online_program_direct_link&sub_action=online_program "Link to paper") in [text mining and classification](https://github.com/lisabecker/PM_TextMining_TeacherReportsClassification "Link to Github repo") of self-written reports in order to partially automatise grading processes in educational research and other projects. 
 
@@ -16,10 +16,12 @@ ________________________________________________________________________________
  __________________________________________________________________________________________________________________________________________________________________
 
  **:computer: Current Projects:**
-- ![5%](https://progress-bar.dev/1) Master's thesis: building an "intelligent illustrator" with GANs: an image editor with image-to-image translation. 
+- ![15%](https://progress-bar.dev/1) Master's thesis: building an "intelligent illustrator" with GANs: an image editor with image-to-image translation. 
   - More details in the "Project" section my Github.
-  - ![100%](https://progress-bar.dev/100) Literature review (3-4 weeks) -> first presentation on October 19th 2020
-  - ![100%](https://progress-bar.dev/100) Implement and test pix2pix
+  - [x] literature review (3-4 weeks) -> first presentation on October 19th 2020
+  - [x] implement and test pix2pix
+  - [ ] implement a hot-one-vector to make the pix2pix structure conditional
+  - [ ] build dataset
   
  __________________________________________________________________________________________________________________________________________________________________
 
