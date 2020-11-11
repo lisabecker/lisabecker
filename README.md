@@ -23,6 +23,8 @@ ________________________________________________________________________________
   - [ ] implement a hot-one-vector to make the pix2pix structure conditional
   - [ ] build dataset
   
+- ![0%](https://progress-bar.dev/10) Set up a humidity sensor for my orchid and track it with Grafana
+  
  __________________________________________________________________________________________________________________________________________________________________
 
 **:wrench: Languages and Tools:**</br>
@@ -50,5 +52,3 @@ ________________________________________________________________________________
 - ![57%](https://progress-bar.dev/57) [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals#courses "Link to Coursera's Course")
  certificate on Coursera (4 of 7 courses finished, Updated 01/09)
 - ![10%](https://progress-bar.dev/10) Build a personal homepage
-- ![0%](https://progress-bar.dev/10) Set up a humidity sensor for my orchid and track it with Grafana
-
