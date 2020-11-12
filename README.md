@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is Lisa and I'm a last year's student of the [Cognitive Systems Master's program](https://www.ling.uni-potsdam.de/cogsys/ "Link to the University of Potsdam") at the University of Potsdam. That means that I'm specialised in Computational Linguistics, Natural Language Processing and Machine Learning. My main expertise lies in Python (numpy, pandas, nltk, scipy, sklearn, tensorflow/keras,...). I'm currently writing my Master's thesis in October 2020 on an "intelligent illustrator", a text-guided image-to-image translator with GANs at [ML6](https://ml6.eu "Link to ML6") and will graduate in March 2021.
 
-Previously, I've worked on medical data ([prediction of schizophrenia](https://github.com/lisabecker/IM_SchizophreniaPrediction "Link to Github repo") based on semantic jumps in written language output) with Walter Daelemans at the University of Antwerp, worked during [open Summer of code 2020](https://osoc.be/editions/2020 "Link to osoc20") on improving the [search engine experience of the research portal FRIS](https://osoc20.github.io/FRISteam/ "Link to the project") (Flemish government) and recently published my first [paper](https://convention2.allacademic.com/one/aera/aera20/index.php?program_focus=view_paper&selected_paper_id=1577876&cmd=online_program_direct_link&sub_action=online_program "Link to paper") in [text mining and classification](https://github.com/lisabecker/PM_TextMining_TeacherReportsClassification "Link to Github repo") of self-written reports in order to partially automatise grading processes in educational research and other projects. 
+Previously, I've worked on medical data ([prediction of schizophrenia](https://github.com/lisabecker/IM_SchizophreniaPrediction "Link to Github repo") based on semantic jumps in written language output) with Walter Daelemans at the University of Antwerp, worked during [open Summer of code 2020](https://osoc.be/editions/2020 "Link to osoc20") on improving the [search engine experience of the research portal FRIS](https://osoc20.github.io/FRISteam/ "Link to the project") (Flemish government) and recently published my first [paper](https://link.springer.com/article/10.1007/s10956-020-09865-1 "Link to paper") in [text mining and classification](https://github.com/lisabecker/PM_TextMining_TeacherReportsClassification "Link to Github repo") of self-written reports in order to partially automatise grading processes in educational research and other projects. 
 
-:mailbox: **You can reach me** via [<img alt="Lisa Becker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] or beckerlisa93(:email:)gmail.com
+:mailbox: **You can reach me** via [<img alt="Lisa Becker | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin], [<img alt="Lisa Becker | Google Scholar" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/googlescholar.svg" />][googlescholar] or lisa.becker(:email:)uni-potsdam.de
 
 __________________________________________________________________________________________________________________________________________________________________
 
@@ -41,6 +41,7 @@ ________________________________________________________________________________
 [![Spotify](https://novatorem.lisabecker.vercel.app/api/spotify)](https://open.spotify.com/user/shiba93)
 
 [linkedin]: https://www.linkedin.com/in/becker-lisa/
+[googlescholar]: https://scholar.google.com/citations?user=j2bngpgAAAAJ&hl=en
 
 
  __________________________________________________________________________________________________________________________________________________________________
