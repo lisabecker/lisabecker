@@ -7,8 +7,6 @@ When not sitting behind the screen, I'm active as a [student representative](htt
 
 :mailbox: **You can reach me** via [<img alt="Lisa Becker | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin], [<img alt="Lisa Becker | Google Scholar" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/googlescholar.svg" />][googlescholar], [<img alt="Lisa Becker | Research Gate" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/researchgate.svg" />][researchgate] or lisa.becker(:email:)uni-potsdam.de
 
-https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/researchgate.svg
-
 __________________________________________________________________________________________________________________________________________________________________
 
 **:book: Past Projects:**
