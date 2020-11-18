@@ -7,13 +7,10 @@ When not sitting behind the screen, I'm active as a [student representative](htt
 
 :mailbox: **You can reach me** via [<img alt="Lisa Becker | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin], [<img alt="Lisa Becker | Google Scholar" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/googlescholar.svg" />][googlescholar], [<img alt="Lisa Becker | Research Gate" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/researchgate.svg" />][researchgate] or lisa.becker(:email:)uni-potsdam.de
 
-__________________________________________________________________________________________________________________________________________________________________
-
-**:book: Past Projects:**
-- 09/2020 ![100%](https://progress-bar.dev/100) writing a review paper on the SOTA of Natural Language Processing in Reinforcement Learning
-- 09/2020 ![100%](https://progress-bar.dev/100) [DeepLearning.ai TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice "Link to Coursera's Course") certificate on Coursera
-- 10/2020 ![100%](https://progress-bar.dev/100) Contribute at least 4 pull requests for [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-- 10/2020 ![100%](https://progress-bar.dev/100) [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans?skipBrowseRedirect=true) certificate on Coursera
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/lisabecker/count.svg" />
+</p>
 
  __________________________________________________________________________________________________________________________________________________________________
 
@@ -24,6 +21,13 @@ ________________________________________________________________________________
   - [x] implement and test pix2pix
   - [ ] implement a hot-one-vector to make the pix2pix structure conditional
   - [ ] build dataset
+__________________________________________________________________________________________________________________________________________________________________
+
+**:book: Past Projects:**
+- 09/2020 ![100%](https://progress-bar.dev/100) writing a review paper on the SOTA of Natural Language Processing in Reinforcement Learning
+- 09/2020 ![100%](https://progress-bar.dev/100) [DeepLearning.ai TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice "Link to Coursera's Course") certificate on Coursera
+- 10/2020 ![100%](https://progress-bar.dev/100) Contribute at least 4 pull requests for [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- 10/2020 ![100%](https://progress-bar.dev/100) [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans?skipBrowseRedirect=true) certificate on Coursera
     
  __________________________________________________________________________________________________________________________________________________________________
 
