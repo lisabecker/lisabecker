@@ -20,7 +20,7 @@ When not sitting behind the screen, I'm active as a [student representative](htt
   - [x] literature review (3-4 weeks) -> first presentation on October 19th 2020
   - [x] implement and test pix2pix
   - [ ] implement a hot-one-vector to make the pix2pix structure conditional
-  - [ ] build dataset
+    - [x] build 3 class dataset
 __________________________________________________________________________________________________________________________________________________________________
 
 **:book: Past Projects (since 09/2020):**
