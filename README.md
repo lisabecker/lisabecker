@@ -15,7 +15,7 @@ When not sitting behind the screen, I'm active as a [student representative](htt
  __________________________________________________________________________________________________________________________________________________________________
 
  **:computer: Current Projects:**
-- ![25%](https://progress-bar.dev/20) Master's thesis: building an "intelligent illustrator" with GANs: an image editor with image-to-image translation. 
+- ![25%](https://progress-bar.dev/20) Master's thesis: building an "intelligent illustrator" with GANs: text-guided image-to-image translation. 
   - [x] literature review (3-4 weeks) -> first presentation on October 19th 2020
   - [x] implement and test pix2pix
   - [ ] implement a hot-one-vector to make the pix2pix structure conditional
