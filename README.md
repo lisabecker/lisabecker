@@ -21,7 +21,7 @@ When not sitting behind the screen, I'm active as a [student representative](htt
   - [ ] implement a hot-one-vector to make the pix2pix structure conditional
     - [x] build 3 class dataset
     
-- ![0%](https://progress-bar.dev/0) [Advent of Code 2020 0/24](https://adventofcode.com/)
+- ![4%](https://progress-bar.dev/4) [Advent of Code 2020 1/24](https://adventofcode.com/)
 
 __________________________________________________________________________________________________________________________________________________________________
 
