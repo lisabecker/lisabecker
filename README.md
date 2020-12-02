@@ -22,7 +22,7 @@ When not sitting behind the screen, I'm active as a [student representative](htt
     - [x] build 3 class dataset
     - [ ] training one-hot vector implementation on Deepmind's 3D dataset
     
-- ![4%](https://progress-bar.dev/4) [Advent of Code 2020 1/24](https://adventofcode.com/)
+- ![8%](https://progress-bar.dev/8) [Advent of Code 2020 2/24](https://adventofcode.com/)
 
 __________________________________________________________________________________________________________________________________________________________________
 
