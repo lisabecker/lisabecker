@@ -18,8 +18,9 @@ When not sitting behind the screen, I'm active as a [student representative](htt
 - ![25%](https://progress-bar.dev/20) Master's thesis: building an "intelligent illustrator" with GANs: text-guided image-to-image translation. 
   - [x] literature review (3-4 weeks) -> first presentation on October 19th 2020
   - [x] implement and test pix2pix
-  - [ ] implement a hot-one-vector to make the pix2pix structure conditional
+  - [x] implement a hot-one-vector to make the pix2pix structure conditional
     - [x] build 3 class dataset
+    - [ ] training one-hot vector implementation on Deepmind's 3D dataset
     
 - ![4%](https://progress-bar.dev/4) [Advent of Code 2020 1/24](https://adventofcode.com/)
 
