@@ -19,10 +19,11 @@ When not sitting behind the screen, I'm active as a [student representative](htt
   - [x] literature review (3-4 weeks) -> first presentation on October 19th 2020
   - [x] implement and test pix2pix
   - [x] implement a hot-one-vector to make the pix2pix structure conditional
-    - [x] build 3 class dataset
+    - [x] build 3 class dataset from maps dataset
+    - [x] build dataset from 3D shape dataset
     - [ ] training one-hot vector implementation on Deepmind's 3D dataset
     
-- ![30%](https://progress-bar.dev/30) [Advent of Code 2020 7/24](https://adventofcode.com/)
+- ![37%](https://progress-bar.dev/37) [Advent of Code 2020 9/24](https://adventofcode.com/)
 
 __________________________________________________________________________________________________________________________________________________________________
 
