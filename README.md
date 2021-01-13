@@ -1,5 +1,5 @@
 <h2 align=center>
-### Hi, my name is Lisa Becker <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hi, my name is Lisa Becker <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lisabecker.README)
 <img src="https://visitor-badge.glitch.me/badge?page_id=lisabecker.README" alt="visitor badge"/>
@@ -36,6 +36,25 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
     - [x] training one-hot vector implementation on Deepmind's 3D dataset
   - [ ] build classifier to transfer from text to labels
 
+ <details>
+  <summary>:book: Past Projects</summary>
+  Since 09/2020
+  - 09/2020 ![100%](https://progress-bar.dev/100) writing a review paper on the SOTA of Natural Language Processing in Reinforcement Learning
+- 09/2020 ![100%](https://progress-bar.dev/100) [DeepLearning.ai TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice "Link to Coursera's Course") certificate on Coursera
+- 10/2020 ![100%](https://progress-bar.dev/100) Contribute at least 4 pull requests for [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- 10/2020 ![100%](https://progress-bar.dev/100) [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans?skipBrowseRedirect=true) certificate on Coursera
+  </details>
+ <details>
+  <summary>:fire: <b>Backburner Projects</b></summary>
+- ![50%](https://progress-bar.dev/50) [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation#courses "Link to Coursera's Course") on Coursera (3 of 6 courses finished, Updated 01/09)
+- ![57%](https://progress-bar.dev/57) [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals#courses "Link to Coursera's Course")
+ certificate on Coursera (4 of 7 courses finished, Updated 01/09)
+- ![10%](https://progress-bar.dev/10) Build a personal homepage
+- ![10%](https://progress-bar.dev/10) Set up a humidity sensor for my orchid and track it with Grafana
+- ![0%](https://progress-bar.dev/0) [Spezialisierung TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment?utm_source=Email&utm_medium=TheBatch&utm_campaign=TF3) on Coursera
+- ![0%](https://progress-bar.dev/0) Tensorflow - Advanced Techniques (not released yet) on Coursera
+- ![5%](https://progress-bar.dev/5) [Finish all of Advent of Code](https://adventofcode.com/)
+  </details>
 __________________________________________________________________________________________________________________________________________________________________
 
 **:wrench: Languages and Tools:**</br>
@@ -57,26 +76,3 @@ ________________________________________________________________________________
 [googlescholar]: https://scholar.google.com/citations?user=j2bngpgAAAAJ&hl=en
 [researchgate]: https://www.researchgate.net/profile/Lisa_Becker11
 
-
-
- __________________________________________________________________________________________________________________________________________________________________
-
- <details>
-  <summary>:book: Past Projects</summary>
-  Since 09/2020
-  - 09/2020 ![100%](https://progress-bar.dev/100) writing a review paper on the SOTA of Natural Language Processing in Reinforcement Learning
-- 09/2020 ![100%](https://progress-bar.dev/100) [DeepLearning.ai TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice "Link to Coursera's Course") certificate on Coursera
-- 10/2020 ![100%](https://progress-bar.dev/100) Contribute at least 4 pull requests for [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-- 10/2020 ![100%](https://progress-bar.dev/100) [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans?skipBrowseRedirect=true) certificate on Coursera
-  </details>
- <details>
-  <summary>:fire: <b>Backburner Projects</b></summary>
-- ![50%](https://progress-bar.dev/50) [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation#courses "Link to Coursera's Course") on Coursera (3 of 6 courses finished, Updated 01/09)
-- ![57%](https://progress-bar.dev/57) [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals#courses "Link to Coursera's Course")
- certificate on Coursera (4 of 7 courses finished, Updated 01/09)
-- ![10%](https://progress-bar.dev/10) Build a personal homepage
-- ![10%](https://progress-bar.dev/10) Set up a humidity sensor for my orchid and track it with Grafana
-- ![0%](https://progress-bar.dev/0) [Spezialisierung TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment?utm_source=Email&utm_medium=TheBatch&utm_campaign=TF3) on Coursera
-- ![0%](https://progress-bar.dev/0) Tensorflow - Advanced Techniques (not released yet) on Coursera
-- ![5%](https://progress-bar.dev/5) [Finish all of Advent of Code](https://adventofcode.com/)
-  </details>
