@@ -1,13 +1,7 @@
 <h2 align=center>
 Hi, my name is Lisa Becker <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
-<p align=center>
-:mailbox: You can reach me via:
-<br> 
-<a target="_blank" href="https://www.linkedin.com/in/becker-lisa"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:beckerlisa93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/LisaGreenspecs"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-</p>
+
 <p align=center>
 I'm a last year's student of the <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems Master's program</a> at the University of Potsdam. That means that I'm specialised in Computational Linguistics, Natural Language Processing and Machine Learning. My main expertise lays in Python (numpy, pandas, nltk, scipy, sklearn, tensorflow/keras,...). I'm currently writing my Master's thesis on an "intelligent illustrator", a text-guided image-to-image translator with GANs at the company <a href="https://ml6.eu">ML6</a> and will graduate in April 2021.
 </p>
@@ -17,19 +11,21 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
 <p align=center>
   When not sitting behind the screen, I'm active as a <a href="https://uni-potsdam.de/cogsys-fsr/">student representative</a> of my Master's program, I <a href="https://arbeiterkind.de/">mentor first-years</a> from a non-academic background to navigate their first semesters at university, I walk dogs at the local [dog adoption café](https://www.dogsanddrinks.be/) and am taking courses to become a <a href="https://yogalife.be/teacher-training/">yoga teacher</a>. I enjoy practicing mindfulness and various sports (such as scuba diving and obstacle runs), indoor gardening and being creative.
 </p>
- [<img alt="Lisa Becker | LinkedIn" width="20px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-32x32.png" />][linkedin], [<img alt="Lisa Becker | Google Scholar" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/googlescholar.svg" />][googlescholar], [<img alt="Lisa Becker | Research Gate" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/researchgate.svg" />][researchgate] or lisa.becker(:email:)uni-potsdam.de
-
 
 <!-- <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="de_DE" data-type="horizontal" data-theme="dark" data-vanity="becker-lisa"><a % % class="LI-simple-link" href='https://be.linkedin.com/in/becker-lisa?trk=profile-badge'>Lisa Becker</a></div> -->
-
+<p align=center>
+<a target="_blank" href="https://www.linkedin.com/in/becker-lisa"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:beckerlisa93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/LisaGreenspecs"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+</p>
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/lisabecker/count.svg" />
 </p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=lisabecker.README" alt="visitor badge"/>
- __________________________________________________________________________________________________________________________________________________________________
+<hr>
 
  **:computer: Current Projects:**
 - ![50%](https://progress-bar.dev/50) Master's thesis: building an "intelligent illustrator" with GANs: text-guided image-to-image translation. 
@@ -60,6 +56,7 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
 - ![0%](https://progress-bar.dev/0) Tensorflow - Advanced Techniques (not released yet) on Coursera
 - ![5%](https://progress-bar.dev/5) [Finish all of Advent of Code](https://adventofcode.com/)
   </details>
+<hr>
 
 **:wrench: My skills include:**</br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50"/>
