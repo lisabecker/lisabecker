@@ -28,8 +28,6 @@ When not sitting behind the screen, I'm active as a [student representative](htt
     - [x] build dataset from 3D shape dataset
     - [x] training one-hot vector implementation on Deepmind's 3D dataset
   - [ ] build classifier to transfer from text to labels
-    
-- ![41%](https://progress-bar.dev/41) [Advent of Code 2020 10/24](https://adventofcode.com/)
 
 __________________________________________________________________________________________________________________________________________________________________
 
@@ -72,4 +70,4 @@ ________________________________________________________________________________
 - ![10%](https://progress-bar.dev/10) Set up a humidity sensor for my orchid and track it with Grafana
 - ![0%](https://progress-bar.dev/0) [Spezialisierung TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment?utm_source=Email&utm_medium=TheBatch&utm_campaign=TF3) on Coursera
 - ![0%](https://progress-bar.dev/0) Tensorflow - Advanced Techniques (not released yet) on Coursera
-
+- ![5%](https://progress-bar.dev/5) [Finish all of Advent of Code](https://adventofcode.com/)
