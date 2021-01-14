@@ -59,7 +59,7 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
   </details>
 <hr>
 
-**:wrench: <b>My skills include:</b></br></br>
+:wrench: <b>My Skills Include:</b></br></br>
 <img src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Jupyter-f37726?style=for-the-badge&logo=jupyter&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Numpy-668bbf?style=for-the-badge&logo=Numpy&logoColor=white"></img>
