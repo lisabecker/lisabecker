@@ -9,7 +9,7 @@ I'm a last year's student of the <a href="https://www.ling.uni-potsdam.de/cogsys
 Previously, I've worked on medical data (<a href="https://github.com/lisabecker/IM_SchizophreniaPrediction">prediction of schizophrenia</a> based on semantic jumps in written language output) with Walter Daelemans at the University of Antwerp, worked during <a href="https://osoc.be/editions/2020">open Summer of code 2020</a> on improving the <a href="https://osoc20.github.io/FRISteam/">search engine experience of the research portal FRIS</a> (Flemish Government) and recently published my first <a href="https://link.springer.com/article/10.1007/s10956-020-09865-1">paper</a> in <a href="https://github.com/lisabecker/PM_TextMining_TeacherReportsClassification">text mining and classification</a> of self-written reports in order to partially automatise grading processes in educational research and other projects.
 </p>
 <p align=center>
-  When not sitting behind the screen, I'm active as a <a href="https://uni-potsdam.de/cogsys-fsr/">student representative</a> of my Master's program, I <a href="https://arbeiterkind.de/">mentor first-years</a> from a non-academic background to navigate their first semesters at university, I walk dogs at the local <a href="https://www.dogsanddrinks.be/">dog adoption café</a> and am taking courses to become a <a href="https://yogalife.be/teacher-training/">yoga teacher</a>. I enjoy practicing mindfulness and various sports (such as scuba diving and obstacle runs), indoor gardening and being creative.
+  When not sitting behind the screen, I'm active as a <a href="https://uni-potsdam.de/cogsys-fsr/">student representative</a> of my Master's program, I <a href="https://arbeiterkind.de/">mentor first-years</a> from a non-academic background to help them navigate their first semester at university, I walk dogs at the local <a href="https://www.dogsanddrinks.be/">dog adoption café</a> and am taking courses to become a <a href="https://yogalife.be/teacher-training/">yoga teacher</a>. I enjoy practicing mindfulness and various sports (such as surfing, scuba diving and obstacle runs), indoor gardening and being creative.
 </p>
 
 <p align=center>
@@ -27,7 +27,7 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
 </p>
 <hr>
 
- **:computer: Current Projects:**
+ **:computer: <b>Current Projects:</b>**
 - ![50%](https://progress-bar.dev/50) Master's thesis: building an "intelligent illustrator" with GANs: text-guided image-to-image translation. 
   - [x] literature review (3-4 weeks) -> first presentation on October 19th 2020
   - [x] implement and test pix2pix
@@ -38,28 +38,28 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
   - [ ] build classifier to transfer from text to labels
 
 <details>
-<summary>:book: Past Projects</summary>
-<ul>
-  <li>09/2020 writing a review paper on the SOTA of Natural Language Processing in Reinforcement Learning</li>
-  <li>09/2020 <a href="https://www.coursera.org/professional-certificates/tensorflow-in-practice">DeepLearning.ai TensorFlow Developer</a> certificate on   Coursera</li>
-  <li>10/2020 Contribute at least 4 pull requests for<a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a></li>
-  <li>10/2020 <a href="https://www.coursera.org/specializations/generative-adversarial-networks-gans">Generative Adversarial Networks (GANs) Specialization</a></li></ul>
+  <summary>:book: <b>Past Projects</b></summary>
+  <ul>
+    <li>09/2020 writing a review paper on the SOTA of Natural Language Processing in Reinforcement Learning</li>
+    <li>09/2020 <a href="https://www.coursera.org/professional-certificates/tensorflow-in-practice">DeepLearning.ai TensorFlow Developer</a> certificate on   Coursera</li>
+    <li>10/2020 Contribute at least 4 pull requests for<a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a></li>
+    <li>10/2020 <a href="https://www.coursera.org/specializations/generative-adversarial-networks-gans">Generative Adversarial Networks (GANs) Specialization</a>     </li></ul>
 </details>
  <details>
   <summary>:fire: <b>Backburner Projects</b></summary>
-<ul>
-  <li><a href="https://www.coursera.org/professional-certificates/google-it-automation#courses">Google IT Automation with Python Professional Certificate</a> on Coursera (3 of 6 courses finished)</li>
-  <li><a href="https://www.coursera.org/specializations/computer-fundamentals#courses">Fundamentals of Computing Specialization</a> certificate on Coursera (4 of 7 courses finished)</li>
-  <li>Build a personal homepage</li>
-  <li>Set up a humidity sensor for my orchid and track it with Grafana</li>
-  <li><a href="https://www.coursera.org/specializations/tensorflow-data-and-deployment?utm_source=Email&utm_medium=TheBatch&utm_campaign=TF3">Spezialisierung TensorFlow: Data and Deployment</a> on Coursera</li> 
-  <li>Tensorflow - Advanced Techniques (not released yet) on Coursera</li>
-  <lis>Finish all of <a href="https://adventofcode.com/">Advent of Code</a></li>
+  <ul>
+    <li><a href="https://www.coursera.org/professional-certificates/google-it-automation#courses">Google IT Automation with Python Professional Certificate</a> on Coursera (3 of 6 courses finished)</li>
+    <li><a href="https://www.coursera.org/specializations/computer-fundamentals#courses">Fundamentals of Computing Specialization</a> certificate on Coursera (4 of 7 courses finished)</li>
+    <li>Build a personal homepage</li>
+    <li>Set up a humidity sensor for my orchid and track it with Grafana</li>
+    <li><a href="https://www.coursera.org/specializations/tensorflow-data-and-deployment?utm_source=Email&utm_medium=TheBatch&utm_campaign=TF3">Spezialisierung TensorFlow: Data and Deployment</a> on Coursera</li> 
+    <li>Tensorflow - Advanced Techniques (not released yet) on Coursera</li>
+    <lis>Finish all of <a href="https://adventofcode.com/">Advent of Code</a></li>
   </ul>
   </details>
 <hr>
 
-**:wrench: My skills include:**</br></br>
+**:wrench: <b>My skills include:</b></br></br>
 <img src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Jupyter-f37726?style=for-the-badge&logo=jupyter&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Numpy-668bbf?style=for-the-badge&logo=Numpy&logoColor=white"></img>
@@ -67,6 +67,7 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
 <img src="https://img.shields.io/badge/-Scikit Learn-f79939?style=for-the-badge&logo=Scikit-Learn&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-NLTK-154f5b?style=for-the-badge&logo=NLTK&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Spacy-09a3d5?style=for-the-badge&logo=Spacy&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-Keras-d00000?style=for-the-badge&logo=Keras&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Tensorflow-ed8e24?style=for-the-badge&logo=Tensorflow&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Pytorch-ef4c2d?style=for-the-badge&logo=Pytorch&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Git-f35030?style=for-the-badge&logo=Git&logoColor=white"></img>
