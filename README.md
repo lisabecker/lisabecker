@@ -29,7 +29,7 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
 
  **:computer: <b>Current Projects:</b>**
 - ![50%](https://progress-bar.dev/50) Master's thesis: building an "intelligent illustrator" with GANs: text-guided image-to-image translation. 
-  - [x] literature review (3-4 weeks) -> first presentation on October 19th 2020
+  - [x] literature review
   - [x] implement and test pix2pix
   - [x] implement a hot-one-vector to make the pix2pix structure conditional
     - [x] build 3 class dataset from maps dataset
