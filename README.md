@@ -27,7 +27,7 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
 </p>
 <hr>
 
- **:computer: <h3>Current Projects:</h3>**
+ <h3>:computer: Current Projects:</h3>
 - ![50%](https://progress-bar.dev/50) Master's thesis: building an "intelligent illustrator" with GANs: text-guided image-to-image translation. 
   - [x] literature review
   - [x] implement and test pix2pix
@@ -38,7 +38,7 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
   - [ ] build classifier to transfer from text to labels
 
 <details>
-  <summary><h3>:book: Past Projects</h3></summary>
+  <h3><summary>:book: Past Projects</summary></h3>
   <ul>
     <li>09/2020 writing a review paper on the SOTA of Natural Language Processing in Reinforcement Learning</li>
     <li>09/2020 <a href="https://www.coursera.org/professional-certificates/tensorflow-in-practice">DeepLearning.ai TensorFlow Developer</a> certificate on   Coursera</li>
