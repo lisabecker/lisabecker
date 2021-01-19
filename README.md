@@ -38,7 +38,7 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
   - [ ] build classifier to transfer from text to labels
 
 <details>
-  <summary>:book: <h3>Past Projects</h3></summary>
+  <summary><h3>:book: Past Projects</h3></summary>
   <ul>
     <li>09/2020 writing a review paper on the SOTA of Natural Language Processing in Reinforcement Learning</li>
     <li>09/2020 <a href="https://www.coursera.org/professional-certificates/tensorflow-in-practice">DeepLearning.ai TensorFlow Developer</a> certificate on   Coursera</li>
@@ -46,7 +46,7 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
     <li>10/2020 <a href="https://www.coursera.org/specializations/generative-adversarial-networks-gans">Generative Adversarial Networks (GANs) Specialization</a>     </li></ul>
 </details>
  <details>
-  <summary>:fire: <h3>Backburner Projects</h3></summary>
+  <summary> <h3>:fire: Backburner Projects</h3></summary>
   <ul>
     <li><a href="https://www.coursera.org/professional-certificates/google-it-automation#courses">Google IT Automation with Python Professional Certificate</a> on Coursera (3 of 6 courses finished)</li>
     <li><a href="https://www.coursera.org/specializations/computer-fundamentals#courses">Fundamentals of Computing Specialization</a> certificate on Coursera (4 of 7 courses finished)</li>
@@ -59,7 +59,7 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
   </details>
 <hr>
 
-:wrench: <h3>My Skills Include:</h3></br></br>
+<h3>:wrench: My Skills Include:</h3></br></br>
 <img src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Jupyter-f37726?style=for-the-badge&logo=jupyter&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Numpy-668bbf?style=for-the-badge&logo=Numpy&logoColor=white"></img>
