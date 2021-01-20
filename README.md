@@ -60,7 +60,7 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
     <li>Set up a humidity sensor for my orchid and track it with Grafana</li>
     <li><a href="https://www.coursera.org/specializations/tensorflow-data-and-deployment?utm_source=Email&utm_medium=TheBatch&utm_campaign=TF3">Spezialisierung TensorFlow: Data and Deployment</a> on Coursera</li> 
     <li>Tensorflow - Advanced Techniques (not released yet) on Coursera</li>
-    <lis>Finish all of <a href="https://adventofcode.com/">Advent of Code</a></li>
+    <li>Finish all of <a href="https://adventofcode.com/">Advent of Code</a></li>
   </ul>
   </details>
 <hr>
