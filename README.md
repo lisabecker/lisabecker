@@ -39,7 +39,8 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
         <li><s>build dataset from 3D shape dataset</s></li>
         <li><s>training one-hot vector implementation on Deepmind's 3D dataset</s></li>
       </ul>
-    <li>build classifier to transfer from text to labels</li>
+      <li><s>build classifier to transfer from text to labels</s></li>
+      <li>optimize classifier</li>
   
   </ul></ul>
 
