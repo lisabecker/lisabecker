@@ -17,8 +17,6 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
 <a target="_blank" href="https://www.researchgate.net/profile/Lisa_Becker11"><img src="https://img.shields.io/badge/-Researchgate-00ccbb?style=for-the-badge&logo=Researchgate&logoColor=white"></img></a>
 <a target="_blank" href="https://scholar.google.com/citations?user=j2bngpgAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google Scholar-326ac5?style=for-the-badge&logo=Google-Scholar&logoColor=white"></img></a>
 <a target="_blank" href="mailto:beckerlisa93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/LisaGreenspecs"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<a target="_blank" href="https://instagram.com/LisaGreenspecs"><img src="https://img.shields.io/badge/-Instagram-8a3ab9?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
 </p>
 
 <p align="center"> 
