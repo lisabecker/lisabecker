@@ -28,21 +28,9 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
 <hr>
 
  <h3>:computer: Current Projects:</h3>
-   <ul>
-    <li>Master's thesis: building an "intelligent illustrator" with GANs: text-guided image-to-image translation.</li>
-    <ul>
-      <li><s>literature review</s></li>
-      <li><s>implement and test pix2pix</s></li>
-      <li><s>implement a hot-one-vector to make the pix2pix structure conditional</s></li>
-      <ul>
-        <li><s>build 3 class dataset from maps dataset</s></li>
-        <li><s>build dataset from 3D shape dataset</s></li>
-        <li><s>training one-hot vector implementation on Deepmind's 3D dataset</s></li>
-      </ul>
-      <li><s>build classifier to transfer from text to labels</s></li>
-      <li>optimize classifier</li>
-  
-  </ul></ul>
+ <ul>
+ <li>Master's thesis: building an "intelligent illustrator" with GANs: text-guided image-to-image translation.</li>
+</ul>
 
 <details>
   <summary><b>:book: Past Projects</b></summary>
