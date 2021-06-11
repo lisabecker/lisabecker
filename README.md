@@ -3,7 +3,7 @@ Hi, my name is Lisa Becker  <img src="https://raw.githubusercontent.com/MartinHe
 </h2>
 
 <p align=center>
-I'm a last year's student of the <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems Master's program</a> at the University of Potsdam. That means that I'm specialised in Computational Linguistics, Natural Language Processing and Machine Learning. My main expertise lays in Python (numpy, pandas, nltk, scipy, sklearn, tensorflow/keras,...). I'm currently writing my Master's thesis on an "intelligent illustrator", a text-guided image-to-image translator with GANs at the company <a href="https://ml6.eu">ML6</a> and will graduate in April 2021.
+I'm a Machine Learning Engineer at <a href="https://ml6.eu">ML6</a> where I work on NLP related projects.
 </p>
 <p align=center>
 Previously, I've worked on medical data (<a href="https://github.com/lisabecker/IM_SchizophreniaPrediction">prediction of schizophrenia</a> based on semantic jumps in written language output) with Walter Daelemans at the University of Antwerp, worked during <a href="https://osoc.be/editions/2020">open Summer of code 2020</a> on improving the <a href="https://osoc20.github.io/FRISteam/">search engine experience of the research portal FRIS</a> (Flemish Government) and recently published my first <a href="https://link.springer.com/article/10.1007/s10956-020-09865-1">paper</a> in <a href="https://github.com/lisabecker/PM_TextMining_TeacherReportsClassification">text mining and classification</a> of self-written reports in order to partially automatise grading processes in educational research and other projects.
