@@ -3,13 +3,13 @@ Hi, my name is Lisa Becker  <img src="https://raw.githubusercontent.com/MartinHe
 </h2>
 
 <p align=center>
-I'm a Machine Learning Engineer at <a href="https://ml6.eu">ML6</a> where I work on NLP related projects.
+I'm a Machine Learning Engineer at <a href="https://ml6.eu">ML6</a> where I work on NLP related projects. My background is in General Theoretical Linguistics (BSc) and <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems (MSc)</a> which I obtained from the University of Potsdam in Germany.
 </p>
 <p align=center>
-Previously, I've worked on medical data (<a href="https://github.com/lisabecker/IM_SchizophreniaPrediction">prediction of schizophrenia</a> based on semantic jumps in written language output) with Walter Daelemans at the University of Antwerp, worked during <a href="https://osoc.be/editions/2020">open Summer of code 2020</a> on improving the <a href="https://osoc20.github.io/FRISteam/">search engine experience of the research portal FRIS</a> (Flemish Government) and recently published my first <a href="https://link.springer.com/article/10.1007/s10956-020-09865-1">paper</a> in <a href="https://github.com/lisabecker/PM_TextMining_TeacherReportsClassification">text mining and classification</a> of self-written reports in order to partially automatise grading processes in educational research and other projects.
+Previously, I've worked on medical data (<a href="https://github.com/lisabecker/IM_SchizophreniaPrediction">prediction of schizophrenia</a> based on semantic jumps in written language output) with professor Walter Daelemans at the University of Antwerp, worked during <a href="https://osoc.be/editions/2020">open Summer of code 2020</a> on improving the <a href="https://osoc20.github.io/FRISteam/">search engine experience of the research portal FRIS</a> (Flemish Government) and recently published my first <a href="https://link.springer.com/article/10.1007/s10956-020-09865-1">paper</a> in <a href="https://github.com/lisabecker/PM_TextMining_TeacherReportsClassification">text mining and classification</a> of self-written reports in order to partially automatise grading processes in educational research and other projects.
 </p>
 <p align=center>
-  When not sitting behind the screen, I'm active as a <a href="https://uni-potsdam.de/cogsys-fsr/">student representative</a> of my Master's program, I <a href="https://arbeiterkind.de/">mentor first-years</a> from a non-academic background to help them navigate their first semester at university, I walk dogs at the local <a href="https://www.dogsanddrinks.be/">dog adoption café</a> and am taking courses to become a <a href="https://yogalife.be/teacher-training/">yoga teacher</a>. I enjoy practicing mindfulness and various sports (such as surfing, scuba diving and obstacle runs), indoor gardening and being creative.
+  When not sitting behind the screen, I'm active as a <a href="https://uni-potsdam.de/cogsys-fsr/">student representative</a> of my Master's program, I <a href="https://arbeiterkind.de/">mentor first-years</a> from a non-academic background to help them navigate their first semester at university, I walk dogs at the local <a href="https://www.dogsanddrinks.be/">dog adoption café</a> and recently finished my <a href"https://www.linkedin.com/feed/update/urn:li:activity:6812758819647610880/">yoga teacher training</a>. I enjoy practicing mindfulness and various sports (such as surfing, scuba diving and obstacle runs), indoor gardening and being creative.
 </p>
 
 <p align=center>
@@ -26,29 +26,19 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
 
  <h3>:computer: Current Projects:</h3>
  <ul>
- <li>Master's thesis: building an "intelligent illustrator" with GANs: text-guided image-to-image translation.</li>
+  <li>ML6: working on an autocompletion project with a client (keyword extraction, clustering etc.)</li>
+  <li>Get GCP certified (professional data engineer)</li>
+  <li>Preparing this year's Newline (conference of Hackerspace Gent)</li>
 </ul>
 
-<details>
-  <summary><b>:book: Past Projects</b></summary>
-  <ul>
-    <li>09/2020 writing a review paper on the SOTA of Natural Language Processing in Reinforcement Learning</li>
-    <li>09/2020 <a href="https://www.coursera.org/professional-certificates/tensorflow-in-practice">DeepLearning.ai TensorFlow Developer</a> certificate on   Coursera</li>
-    <li>10/2020 Contribute at least 4 pull requests for<a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a></li>
-    <li>10/2020 <a href="https://www.coursera.org/specializations/generative-adversarial-networks-gans">Generative Adversarial Networks (GANs) Specialization</a>     </li></ul>
-</details>
- <details>
-  <summary><b>:fire: Backburner Projects</b></summary>
+  <h3>:fire: Backburner Projects</h3>
   <ul>
     <li><a href="https://www.coursera.org/professional-certificates/google-it-automation#courses">Google IT Automation with Python Professional Certificate</a> on Coursera (3 of 6 courses finished)</li>
     <li><a href="https://www.coursera.org/specializations/computer-fundamentals#courses">Fundamentals of Computing Specialization</a> certificate on Coursera (4 of 7 courses finished)</li>
     <li>Build a personal homepage</li>
     <li>Set up a humidity sensor for my orchid and track it with Grafana</li>
-    <li><a href="https://www.coursera.org/specializations/tensorflow-data-and-deployment?utm_source=Email&utm_medium=TheBatch&utm_campaign=TF3">Spezialisierung TensorFlow: Data and Deployment</a> on Coursera</li> 
-    <li>Tensorflow - Advanced Techniques (not released yet) on Coursera</li>
     <li>Finish all of <a href="https://adventofcode.com/">Advent of Code</a></li>
   </ul>
-  </details>
 <hr>
 
 <b>:wrench: My Skills Include:</b><br><br>
