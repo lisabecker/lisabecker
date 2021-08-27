@@ -55,7 +55,5 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
 <img src="https://img.shields.io/badge/-Git-f35030?style=for-the-badge&logo=Git&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-LaTeX-008081?style=for-the-badge&logo=latex&logoColor=white"></img>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.lisabecker.vercel.app/api?username=lisabecker&show_icons=true&hide_border=true&theme=vue"/>
-
 [![Spotify](https://novatorem.lisabecker.vercel.app/api/spotify)](https://open.spotify.com/user/shiba93)
 
