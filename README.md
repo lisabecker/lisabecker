@@ -26,13 +26,15 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
 
  <h3>:computer: Current Projects:</h3>
  <ul>
-  <li>ML6: working on an autocompletion project with a client (keyword extraction, clustering etc.)</li>
-  <li>Get GCP certified (professional data engineer)</li>
-  <li>Preparing this year's Newline (conference of Hackerspace Gent)</li>
+  <li>ML6: working on an pseudonomization project for the NLP chapter & document classification for a client</li>
+  <li>GCP Certification (Professional Data Engineer)</li>
+  <li>Harvard's CS50 course</li>
+  <li>Proofreading Mieke de Ketelaere's German version of her book: Wanted: Human-AI Translators</li>
 </ul>
 
   <h3>:fire: Backburner Projects</h3>
   <ul>
+    <li>GCP Certification (Professional Machine Learning Engineer)</li>
     <li><a href="https://www.coursera.org/professional-certificates/google-it-automation#courses">Google IT Automation with Python Professional Certificate</a> on Coursera (3 of 6 courses finished)</li>
     <li><a href="https://www.coursera.org/specializations/computer-fundamentals#courses">Fundamentals of Computing Specialization</a> certificate on Coursera (4 of 7 courses finished)</li>
     <li>Build a personal homepage</li>
