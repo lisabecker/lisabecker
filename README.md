@@ -24,12 +24,11 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
 </p>
 <hr>
 
- <h3>:computer: Current Projects:</h3>
+ <h3>:computer: Current Personal Projects:</h3>
  <ul>
-  <li>ML6: working on an pseudonomization project for the NLP chapter & document classification for a client</li>
-  <li>GCP Certification (Professional Data Engineer)</li>
+  <li>Speaker Diarization course on Udemy</li>
   <li>Harvard's CS50 course</li>
-  <li>Proofreading Mieke de Ketelaere's German version of her book: Wanted: Human-AI Translators</li>
+  <li>Working through "Natural Language Processing with Transformers" from O'Reilly</li>
 </ul>
 
   <h3>:fire: Backburner Projects</h3>
@@ -38,7 +37,6 @@ Previously, I've worked on medical data (<a href="https://github.com/lisabecker/
     <li><a href="https://www.coursera.org/professional-certificates/google-it-automation#courses">Google IT Automation with Python Professional Certificate</a> on Coursera (3 of 6 courses finished)</li>
     <li><a href="https://www.coursera.org/specializations/computer-fundamentals#courses">Fundamentals of Computing Specialization</a> certificate on Coursera (4 of 7 courses finished)</li>
     <li>Build a personal homepage</li>
-    <li>Set up a humidity sensor for my orchid and track it with Grafana</li>
     <li>Finish all of <a href="https://adventofcode.com/">Advent of Code</a></li>
   </ul>
 <hr>
