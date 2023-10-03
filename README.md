@@ -1,9 +1,11 @@
 <h1>Hi, my name is Lisa Becker! 👋</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=198A1B&width=435&lines=Machine+Learning+Engineer;Public+Speaker;%23IAmRemarkable+Facilitator;Word+Nerd+%5BLinguist%5D;" alt="Some words describing Lisa" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=198A1B&width=435&lines=Machine+Learning+Engineer;Public+Speaker;%23IAmRemarkable+Facilitator;Word+Nerd+%5BLinguist%5D;" alt="Some words describing Lisa" />
+</a>
 
 <p>
-As a Machine Learning Engineer at <a href="https://pure.app/" style="color: #198A1B">Pure</a>, a cutting-edge dating app, I harness the power of data and algorithms to create meaningful connections. By fine-tuning models, I enhance user experience, making love and friendship more accessible in the digital age. My background is in General Theoretical Linguistics (BSc) and <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems (MSc)</a> from the University of Potsdam in Germany and I've previously worked at the Machine Learning Consultancy <a href="https://ml6.eu/">ML6</a> where I developed end-to-end solutions for clients.
+    As a Machine Learning Engineer at <a href="https://pure.app/" style="color: #198A1B">Pure</a>, I bring data to life to create meaningful connections. Dive deeper into my world of algorithms, or reach out if you're keen to collaborate on projects that make a difference! By fine-tuning models, I enhance user experience, making love and friendship more accessible in the digital age. My background is in General Theoretical Linguistics (BSc) and <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems (MSc)</a> from the University of Potsdam in Germany and I've previously worked at the Machine Learning Consultancy <a href="https://ml6.eu/">ML6</a> where I developed end-to-end solutions for clients.
 </p>
 
 <p>
@@ -17,7 +19,7 @@ As a Machine Learning Engineer at <a href="https://pure.app/" style="color: #198
     </li>
 </ul>
 
-<h3>📚 Books I'm currently reading:</h3>
+### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
 - [Loathe to Love You (The STEMinist Novellas, #1-3)](https://www.goodreads.com/review/show/5876744183?utm_medium=api&utm_source=rss) by Ali Hazelwood (⭐️3.88)
 - [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.goodreads.com/review/show/4757641302?utm_medium=api&utm_source=rss) by Chris Voss (⭐️4.35)
@@ -27,20 +29,20 @@ As a Machine Learning Engineer at <a href="https://pure.app/" style="color: #198
 - [Natural Language Processing with Transformers: Building Language Applications with Hugging Face](https://www.goodreads.com/review/show/4684769472?utm_medium=api&utm_source=rss) by Lewis Tunstall (⭐️4.46)
 <!-- GOODREADS-LIST:END -->
 
-<div align="left">
-  <h3>🤖 Some Numbers:</h3>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lisabecker&show_icons=true&locale=en&theme=shadow_green" alt="Lisa Becker's GitHub statistics"></p>
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lisabecker&theme=shadow_green" alt="Lisa Becker's GitHub statistics"></p>
-</div>
-
-<div align="left">
-  <h3>✍️ Most recent Medium article:</h3>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@becker-lisa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@becker-lisa/0" alt="Lisa's most recent Medium article"></a>
-</div>
-
-<div align="left">
+<div>
     <h3>🎶 Now Playing on Spotify:</h3>
     <a href="https://open.spotify.com/user/shiba93">
         <img src="https://novatorem.lisabecker.vercel.app/api/spotify" alt="Spotify">
     </a>
+</div>
+
+<div>
+  <h3>✍️ Most recent Medium article:</h3>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@becker-lisa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@becker-lisa/0" alt="Lisa's most recent Medium article"></a>
+</div>
+
+<div>
+  <h3>🤖 Some Numbers:</h3>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lisabecker&show_icons=true&locale=en&theme=shadow_green" alt="Lisa Becker's GitHub statistics"></p>
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lisabecker&theme=shadow_green" alt="Lisa Becker's GitHub statistics"></p>
 </div>
