@@ -5,11 +5,11 @@
 </a>
 
 <p>
-    As a Machine Learning Engineer at <a href="https://pure.app/" style="color: #198A1B">Pure</a>, I bring data to life to create meaningful connections. Dive deeper into my world of algorithms, or reach out if you're keen to collaborate on projects that make a difference! By fine-tuning models, I enhance user experience, making love and friendship more accessible in the digital age. My background is in General Theoretical Linguistics (BSc) and <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems (MSc)</a> from the University of Potsdam in Germany and I've previously worked at the Machine Learning Consultancy <a href="https://ml6.eu/">ML6</a> where I developed end-to-end solutions for clients.
+    As a Machine Learning Engineer at <a href="https://pure.app/" style="color: #198A1B">Pure</a>, I bring data to life to create meaningful connections. Dive deeper into my world of algorithms, or reach out if you're keen to collaborate on projects that make a difference! By fine-tuning models, I enhance user experience, making love and friendship more accessible in the digital age. My background is in General Theoretical Linguistics (BSc) and <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems (MSc)</a> from the University of Potsdam in Germany. Previously I worked at the Machine Learning Consultancy <a href="https://ml6.eu/">ML6</a> where I developed end-to-end solutions for clients with a focus on NLP.
 </p>
 
 <p>
-    But hey, it's not just about the code! I'm on a mission for ethical AI and am big on <strong>diversity, equity, and inclusion (DEI)</strong> and I'm an <a href="https://rmrkblty.org/">#IAmRemarkable</a> facilitator.
+    But hey, it's not just about the code! I'm on a mission for ethical AI and am big on <strong>diversity, equity, and inclusion (DEI)</strong> and I'm an <a href="https://rmrkblty.org/">#IAmRemarkable</a> facilitator. In my spare time, I love exploring nature, tending to my indoor garden, playing the cello, doing or teaching yoga, going to and speaking at meetups, reading books, or playing video games. 🌲🪴🎻🤸🎤📖🎮
 </p>
 
 <h3>🚀 Current Personal Projects:</h3>
