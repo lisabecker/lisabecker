@@ -30,6 +30,12 @@
 <!-- GOODREADS-LIST:END -->
 
 <div>
+  <h3>🤖 Some Numbers:</h3>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=lisabecker&show_icons=true&locale=en&theme=shadow_green" alt="Lisa Becker's GitHub statistics"></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lisabecker&theme=shadow_green" alt="Lisa Becker's GitHub statistics"></p>
+</div>
+
+<div>
     <h3>🎶 Now Playing on Spotify:</h3>
     <a href="https://open.spotify.com/user/shiba93">
         <img src="https://novatorem.lisabecker.vercel.app/api/spotify" alt="Spotify">
@@ -41,8 +47,3 @@
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@becker-lisa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@becker-lisa/0" alt="Lisa's most recent Medium article"></a>
 </div>
 
-<div>
-  <h3>🤖 Some Numbers:</h3>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lisabecker&show_icons=true&locale=en&theme=shadow_green" alt="Lisa Becker's GitHub statistics"></p>
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lisabecker&theme=shadow_green" alt="Lisa Becker's GitHub statistics"></p>
-</div>
