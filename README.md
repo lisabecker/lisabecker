@@ -29,10 +29,61 @@
 - [Natural Language Processing with Transformers: Building Language Applications with Hugging Face](https://www.goodreads.com/review/show/4684769472?utm_medium=api&utm_source=rss) by Lewis Tunstall (⭐️4.46)
 <!-- GOODREADS-LIST:END -->
 
+<details>
+    <summary><h3>: List 100</h3></summary>
+  Inspired by <a href="https://huyenchip.com/list-100/">Chip Huyen</a>: Things I want to do before I die. Please let me know if you have any recommendations! Progress as of October 4th, 2023:
+  12/42 or 35%
+    <ol>
+      <li>❌ 1 year of backpacking</li>  
+      <li>✔️ Live in another country</li>
+      <li>✔️ Study in another country</li>
+      <li>✔️ See the Northern Lights</li>
+      <li>❌ Take my mom on a vacation</li>
+      <li>❌ Climb a volcano</li>
+      <li>❌ Do a glacier tour</li>
+      <li>❌ Hike to Everest base camp</li>
+      <li>❌ Meet the Dalai Lama</li>
+      <li>❌ Do Bible tour</li>
+      <li>✔️ Visit Vatican</li>
+      <li>❌ Visit Mecca</li>
+      <li>❌ Visit every continent (3/7)</li>
+      <li>❌ See the Seven Ancient Wonders of the World (0/7):</li>
+      <li>❌ 1. The Great Pyramid of Giza, Egypt</li>
+      <li>❌ 2. Hanging Gardens of Babylon, Iraq</li>
+      <li>❌ 3. Statue of Zeus at Olympia, Greece</li>
+      <li>❌ 4. Temple of Artemis at Ephesus, Turkey</li>
+      <li>❌ 5. Mausoleum at Halicarnassus, Turkey</li>
+      <li>❌ 6. Colossus of Rhodes, Greece</li>
+      <li>❌ 7. Lighthouse of Alexandria (or Pharos of Alexandria), Egypt</li>
+      <li>❌ See the Seven New Wonders of the World (1/7):</li>
+      <li>❌ 1. The Great Wall of China, China</li>
+      <li>❌ 2. Petra, Jordan</li>
+      <li>❌ 3. Christ the Redeemer, Brazil</li>
+      <li>❌ 4. Machu Picchu, Peru</li>
+      <li>❌ 5. The Pyramid at Chichén Itzá, Mexico</li>
+      <li>✔️ 6. Roman Colosseum (or Coliseum), Italy</li>
+      <li>❌ 7. Taj Mahal, India</li>
+      <li>✔️ Author a <a href="https://www.researchgate.net/publication/344606950_Computer-Based_Classification_of_Preservice_Physics_Teachers'_Written_Reflections">paper</a></li>
+      <li>❌ Write a book</li>
+      <li>❌ Get a PhD</li>
+      <li>✔️ Play at a <a href='https://www.youtube.com/watch?v=Aem2cOAGHeQ'>World Championship</a></li>
+      <li>❌ Run a marathon</li>
+      <li>✔️ Scuba dive (now a PADI certified Rescue Diver)</li>
+      <li>❌ Sky dive</li>
+      <li>✔️ Float in a tank</li>
+      <li>✔️ Ride a hot air balloon (Atlas Mountains, Morocco)</li>
+      <li>✔️ Take a meditation retreat</li>
+      <li>✔️ Become a certified yoga teacher</li>
+      <li>❌ Speak at TED</li>
+      <li>❌ Learn lucid dreaming (again)</li>
+      <li>❌ Take a DNA test</li>
+    </ol>
+</details>
+
 <div>
   <h3>🤖 Some Numbers:</h3>
   <p><img src="https://github-readme-stats.vercel.app/api?username=lisabecker&show_icons=true&locale=en&theme=shadow_green" alt="Lisa Becker's GitHub statistics"></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lisabecker&theme=shadow_green" alt="Lisa Becker's GitHub statistics"></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lisabecker&theme=shadow_green" alt="Lisa Becker's GitHub streak"></p>
 </div>
 
 <div>
