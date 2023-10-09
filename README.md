@@ -21,12 +21,11 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [Loathe to Love You (The STEMinist Novellas, #1-3)](https://www.goodreads.com/review/show/5876744183?utm_medium=api&utm_source=rss) by Ali Hazelwood (⭐️3.88)
+- [The Ballad of Songbirds and Snakes (The Hunger Games, #0)](https://www.goodreads.com/review/show/5892690466?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️3.87)
 - [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.goodreads.com/review/show/4757641302?utm_medium=api&utm_source=rss) by Chris Voss (⭐️4.35)
-- [An Immense World: How Animal Senses Reveal the Hidden Realms Around Us](https://www.goodreads.com/review/show/5646838839?utm_medium=api&utm_source=rss) by Ed Yong (⭐️4.45)
 - [I, Claudius (Claudius, #1)](https://www.goodreads.com/review/show/5733575066?utm_medium=api&utm_source=rss) by Robert Graves (⭐️4.24)
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/review/show/4908792685?utm_medium=api&utm_source=rss) by Andy Hunt (⭐️4.32)
-- [Natural Language Processing with Transformers: Building Language Applications with Hugging Face](https://www.goodreads.com/review/show/4684769472?utm_medium=api&utm_source=rss) by Lewis Tunstall (⭐️4.46)
+- [Natural Language Processing with Transformers: Building Language Applications with Hugging Face](https://www.goodreads.com/review/show/4684769472?utm_medium=api&utm_source=rss) by Lewis Tunstall (⭐️4.47)
 <!-- GOODREADS-LIST:END -->
 
 <details>
