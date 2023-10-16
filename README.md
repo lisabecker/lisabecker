@@ -22,7 +22,6 @@
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
 - [The Museum of Broken Relationships](https://www.goodreads.com/review/show/5899117084?utm_medium=api&utm_source=rss) by Olinka Vistica (⭐️4.35)
-- [The Ballad of Songbirds and Snakes (The Hunger Games, #0)](https://www.goodreads.com/review/show/5892690466?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️3.87)
 - [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.goodreads.com/review/show/4757641302?utm_medium=api&utm_source=rss) by Chris Voss (⭐️4.35)
 - [I, Claudius (Claudius, #1)](https://www.goodreads.com/review/show/5733575066?utm_medium=api&utm_source=rss) by Robert Graves (⭐️4.24)
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/review/show/4908792685?utm_medium=api&utm_source=rss) by Andy Hunt (⭐️4.32)
