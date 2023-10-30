@@ -21,9 +21,8 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [The Trouble with Hating You (The Trouble with Hating You, #1)](https://www.goodreads.com/review/show/5916297603?utm_medium=api&utm_source=rss) by Sajni Patel (⭐️3.81)
+- [The Emperor of All Maladies: A Biography of Cancer](https://www.goodreads.com/review/show/5915284398?utm_medium=api&utm_source=rss) by Siddhartha Mukherjee (⭐️4.31)
 - [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.goodreads.com/review/show/4757641302?utm_medium=api&utm_source=rss) by Chris Voss (⭐️4.35)
-- [I, Claudius (Claudius, #1)](https://www.goodreads.com/review/show/5733575066?utm_medium=api&utm_source=rss) by Robert Graves (⭐️4.24)
 <!-- GOODREADS-LIST:END -->
 
 <details>
