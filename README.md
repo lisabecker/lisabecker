@@ -27,7 +27,7 @@
 <!-- GOODREADS-LIST:END -->
 
 <details>
-    <summary><h3>: List 100</h3></summary>
+    <summary><h3>📝 List 100</h3></summary>
   Inspired by <a href="https://huyenchip.com/list-100/">Chip Huyen</a>: Things I want to do before I die. Please let me know if you have any recommendations! Progress as of October 4th, 2023:
   12/42 or 35%
     <ol>
@@ -80,7 +80,6 @@
 <div>
   <h3>🤖 Some Numbers:</h3>
   <p><img src="https://github-readme-stats.vercel.app/api?username=lisabecker&show_icons=true&locale=en&theme=shadow_green" alt="Lisa Becker's GitHub statistics"></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lisabecker&theme=shadow_green" alt="Lisa Becker's GitHub streak"></p>
 </div>
 
 <div>
