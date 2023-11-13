@@ -21,7 +21,7 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [Check &amp; Mate](https://www.goodreads.com/review/show/5912832699?utm_medium=api&utm_source=rss) by Ali Hazelwood (⭐️4.17)
+- [Check &amp; Mate](https://www.goodreads.com/review/show/5912832699?utm_medium=api&utm_source=rss) by Ali Hazelwood (⭐️4.16)
 - [The Emperor of All Maladies: A Biography of Cancer](https://www.goodreads.com/review/show/5915284398?utm_medium=api&utm_source=rss) by Siddhartha Mukherjee (⭐️4.31)
 - [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.goodreads.com/review/show/4757641302?utm_medium=api&utm_source=rss) by Chris Voss (⭐️4.35)
 <!-- GOODREADS-LIST:END -->
