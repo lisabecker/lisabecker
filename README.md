@@ -38,7 +38,7 @@
       <li>✔️ Live in another country</li>
       <li>✔️ Study in another country</li>
       <li>✔️ See the Northern Lights</li>
-      <li>❌ Take my mom on a vacation</li>
+      <li>❌ Take my mom on a vacation abroad</li>
       <li>❌ Climb a volcano</li>
       <li>❌ Do a glacier tour</li>
       <li>❌ Hike to Everest base camp</li>
@@ -71,10 +71,11 @@
       <li>✔️ Scuba dive (now a PADI certified Rescue Diver)</li>
       <li>❌ Sky dive</li>
       <li>✔️ Float in a tank</li>
-      <li>✔️ Ride a hot air balloon (Atlas Mountains, Morocco)</li>
-      <li>✔️ Take a meditation retreat</li>
+      <li>✔️ Ride a hot air balloon (Atlas Mountains, Morocco, May 2023)</li>
+      <li>✔️ Take a meditation retreat (Vipassana, 10 days, March 2019)</li>
       <li>✔️ Become a certified yoga teacher</li>
       <li>❌ Speak at TED</li>
+      <li>❌ Participate in a Science Slam</li>
       <li>❌ Learn lucid dreaming (again)</li>
       <li>❌ Take a DNA test</li>
     </ol>
