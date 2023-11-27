@@ -24,7 +24,7 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [Iron Flame (The Empyrean, #2)](https://www.goodreads.com/review/show/5959784039?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.49)
+- [Iron Flame (The Empyrean, #2)](https://www.goodreads.com/review/show/5959784039?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.45)
 - [The Emperor of All Maladies: A Biography of Cancer](https://www.goodreads.com/review/show/5915284398?utm_medium=api&utm_source=rss) by Siddhartha Mukherjee (⭐️4.31)
 - [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.goodreads.com/review/show/4757641302?utm_medium=api&utm_source=rss) by Chris Voss (⭐️4.35)
 <!-- GOODREADS-LIST:END -->
