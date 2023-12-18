@@ -24,9 +24,8 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [Yellowface](https://www.goodreads.com/review/show/5480336626?utm_medium=api&utm_source=rss) by R.F. Kuang (⭐️3.88)
+- [A Court of Thorns and Roses (A Court of Thorns and Roses, #1)](https://www.goodreads.com/review/show/6055965820?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.21)
 - [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/review/show/5927783871?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.26)
-- [Die Farbe der Rache (Tintenwelt, #4)](https://www.goodreads.com/review/show/6016728752?utm_medium=api&utm_source=rss) by Cornelia Funke (⭐️4.03)
 - [The Emperor of All Maladies: A Biography of Cancer](https://www.goodreads.com/review/show/5915284398?utm_medium=api&utm_source=rss) by Siddhartha Mukherjee (⭐️4.31)
 - [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.goodreads.com/review/show/4757641302?utm_medium=api&utm_source=rss) by Chris Voss (⭐️4.35)
 <!-- GOODREADS-LIST:END -->
