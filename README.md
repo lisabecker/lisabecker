@@ -25,8 +25,7 @@
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
 - [The Comfort Crisis: Embrace Discomfort To Reclaim Your Wild, Happy, Healthy Self](https://www.goodreads.com/review/show/5270204288?utm_medium=api&utm_source=rss) by Michael Easter (⭐️4.26)
-- [A Court of Mist and Fury (A Court of Thorns and Roses, #2)](https://www.goodreads.com/review/show/6152339760?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.67)
-- [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/review/show/5927783871?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.13)
+- [A Court of Mist and Fury (A Court of Thorns and Roses, #2)](https://www.goodreads.com/review/show/6152339760?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.68)
 - [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.goodreads.com/review/show/4757641302?utm_medium=api&utm_source=rss) by Chris Voss (⭐️4.35)
 <!-- GOODREADS-LIST:END -->
 
