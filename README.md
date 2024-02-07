@@ -17,9 +17,6 @@
     <li>
       <a href="https://www.coursera.org/professional-certificates/devops-and-software-engineering">IBM DevOps and Software Engineering</a> certificate on Coursera   
     </li>
-    <li>
-      <a href="https://www.udemy.com/course/langchain-masterclass-develop-llm-apps-using-python/">LangChain MasterClass - OpenAI LLAMA 2 GPT LLM Apps</a> certificate on Udemy   
-    </li>
 </ul>
 
 ### 📚 Books I'm reading right now:
