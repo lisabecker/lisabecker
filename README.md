@@ -21,7 +21,7 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [In the Likely Event](https://www.goodreads.com/review/show/6239889619?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.24)
+- [The Last Letter](https://www.goodreads.com/review/show/6276252669?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.39)
 - [The Comfort Crisis: Embrace Discomfort To Reclaim Your Wild, Happy, Healthy Self](https://www.goodreads.com/review/show/5270204288?utm_medium=api&utm_source=rss) by Michael Easter (⭐️4.26)
 <!-- GOODREADS-LIST:END -->
 
