@@ -21,8 +21,9 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
+- [Wordslut: A Feminist Guide to Taking Back the English Language](https://www.goodreads.com/review/show/6100114550?utm_medium=api&utm_source=rss) by Amanda Montell (⭐️4.32)
+- [Chip War: The Fight for the World's Most Critical Technology](https://www.goodreads.com/review/show/5927077286?utm_medium=api&utm_source=rss) by Chris   Miller (⭐️4.41)
 - [The Last Letter](https://www.goodreads.com/review/show/6276252669?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.39)
-- [The Comfort Crisis: Embrace Discomfort To Reclaim Your Wild, Happy, Healthy Self](https://www.goodreads.com/review/show/5270204288?utm_medium=api&utm_source=rss) by Michael Easter (⭐️4.26)
 <!-- GOODREADS-LIST:END -->
 
 <details>
