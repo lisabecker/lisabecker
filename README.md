@@ -21,7 +21,7 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/review/show/6046804690?utm_medium=api&utm_source=rss) by Cal Newport (⭐️3.86)
+- [Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/review/show/6046804690?utm_medium=api&utm_source=rss) by Cal Newport (⭐️3.87)
 - [Wordslut: A Feminist Guide to Taking Back the English Language](https://www.goodreads.com/review/show/6100114550?utm_medium=api&utm_source=rss) by Amanda Montell (⭐️4.32)
 - [Chip War: The Fight for the World's Most Critical Technology](https://www.goodreads.com/review/show/5927077286?utm_medium=api&utm_source=rss) by Chris   Miller (⭐️4.41)
 <!-- GOODREADS-LIST:END -->
