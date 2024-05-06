@@ -5,15 +5,24 @@
 </a>
 
 <p>
-    As a Machine Learning Engineer at <a href="https://pure.app/" style="color: #198A1B">Pure</a>, I bring data to life to create meaningful connections. Dive deeper into my world of algorithms, or reach out if you're keen to collaborate on projects that make a difference! By fine-tuning models, I enhance user experience, making love and friendship more accessible in the digital age. My background is in General Theoretical Linguistics (BSc) and <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems (MSc)</a> from the University of Potsdam in Germany. Previously I worked at the Machine Learning Consultancy <a href="https://ml6.eu/">ML6</a> where I developed end-to-end solutions for clients with a focus on NLP.
+    As a Machine Learning Engineer at <a href="https://pure.app/" style="color: #198A1B">Pure</a>, I bring data to life to create meaningful connections. Dive deeper into my world of algorithms, or reach out if you're keen to collaborate on projects that make a difference! By fine-tuning models, I enhance user experience, making love and friendship more accessible in the digital age. I also freelance as a technical reviewer for <a href="https://www.oreilly.com/">O'Reilly Media</a> and am developing a video course about the "Fundamentals of Natural Language Processing". My background is in General Theoretical Linguistics (BSc) and <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems (MSc)</a> from the University of Potsdam in Germany. Previously I worked at the Machine Learning Consultancy <a href="https://ml6.eu/">ML6</a> where I developed end-to-end solutions for clients with a focus on NLP.
 </p>
 
 <p>
-    But hey, it's not just about the code! I'm on a mission for ethical AI and am big on <strong>diversity, equity, and inclusion (DEI)</strong> and I'm an <a href="https://rmrkblty.org/">#IAmRemarkable</a> facilitator. In my spare time, I love exploring nature, tending to my indoor garden, playing the cello, doing or teaching yoga, going to and speaking at meetups, reading books, or playing video games. 🌲🪴🎻🤸🎤📖🎮
+    But hey, it's not just about the code! I'm on a mission for ethical AI and am big on <strong>diversity, equity, and inclusion (DEI)</strong> and I'm an <a href="https://rmrkblty.org/">#IAmRemarkable</a> facilitator. In my spare time, I love exploring nature, tending to my indoor garden, playing the cello, doing or teaching yoga, organizing, going to and speaking at meetups, reading books, or playing video games. 🌲🪴🎻🤸🎤📖🎮
+</p>
+
+### 🎤 Public Speaking:
+
+<p>
+  Get to know about my past and planned <a href="https://github.com/lisabecker/public-speaking">speaking engagements</a> here. Email me at <a href="beckerlisa93&commat;gmail.com">beckerlisa93&commat;gmail.com</a> if you want me to speak at your event.
 </p>
 
 <h3>🚀 Current Personal Projects:</h3>
 <ul>
+    <li>
+      Member of the current <a href="https://www.mckinsey.com/forward/overview">McKinsey Forward</a> cohort
+    </li>
     <li>
       <a href="https://www.coursera.org/professional-certificates/devops-and-software-engineering">IBM DevOps and Software Engineering</a> certificate on Coursera   
     </li>
@@ -76,7 +85,7 @@
       <li>❌ Speak at TED</li>
       <li>❌ Participate in a Science Slam</li>
       <li>❌ Learn lucid dreaming (again)</li>
-      <li>❌ Take a DNA test</li>
+      <li>✔️ Take a DNA test</li>
     </ol>
 </details>
 
