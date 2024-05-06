@@ -21,11 +21,11 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.goodreads.com/review/show/3289241597?utm_medium=api&utm_source=rss) by Emily  Chang (⭐️4.01)
+- [The Things We Leave Unfinished](https://www.goodreads.com/review/show/6276256551?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.26)
+- [Kaikeyi](https://www.goodreads.com/review/show/5985133688?utm_medium=api&utm_source=rss) by Vaishnavi Patel (⭐️4.19)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4908792806?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.38)
 - [Engineering Management for the Rest of Us](https://www.goodreads.com/review/show/5410320096?utm_medium=api&utm_source=rss) by Sarah Drasner (⭐️4.22)
-- [Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/review/show/6046804690?utm_medium=api&utm_source=rss) by Cal Newport (⭐️3.74)
-- [Wordslut: A Feminist Guide to Taking Back the English Language](https://www.goodreads.com/review/show/6100114550?utm_medium=api&utm_source=rss) by Amanda Montell (⭐️4.31)
+- [Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/review/show/6046804690?utm_medium=api&utm_source=rss) by Cal Newport (⭐️3.73)
 <!-- GOODREADS-LIST:END -->
 
 <details>
