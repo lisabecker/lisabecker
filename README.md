@@ -30,7 +30,7 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [Iron Flame (Part 1 of 2) [Dramatized Adaptation] (The Empyrean, #2)](https://www.goodreads.com/review/show/6511773647?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️3.87)
+- [Iron Flame (Part 1 of 2) [Dramatized Adaptation] (The Empyrean, #2)](https://www.goodreads.com/review/show/6511773647?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️3.89)
 - [Murtagh (The Inheritance Cycle, #5)](https://www.goodreads.com/review/show/5985132961?utm_medium=api&utm_source=rss) by Christopher Paolini (⭐️4.14)
 - [The Things We Leave Unfinished](https://www.goodreads.com/review/show/6276256551?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.26)
 - [Kaikeyi](https://www.goodreads.com/review/show/5985133688?utm_medium=api&utm_source=rss) by Vaishnavi Patel (⭐️4.19)
