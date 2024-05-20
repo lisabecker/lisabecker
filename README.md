@@ -30,8 +30,8 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [I Contain Multitudes: The Microbes Within Us and a Grander View of Life](https://www.goodreads.com/review/show/5804464732?utm_medium=api&utm_source=rss) by Ed Yong (⭐️4.16)
-- [Sluts: The truth about slutshaming and what we can do to fight it](https://www.goodreads.com/review/show/6378269280?utm_medium=api&utm_source=rss) by Beth Ashley (⭐️4.8)
+- [Iron Flame (Part 1 of 2) [Dramatized Adaptation] (The Empyrean, #2)](https://www.goodreads.com/review/show/6511773647?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️3.85)
+- [Murtagh (The Inheritance Cycle, #5)](https://www.goodreads.com/review/show/5985132961?utm_medium=api&utm_source=rss) by Christopher Paolini (⭐️4.14)
 - [The Things We Leave Unfinished](https://www.goodreads.com/review/show/6276256551?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.26)
 - [Kaikeyi](https://www.goodreads.com/review/show/5985133688?utm_medium=api&utm_source=rss) by Vaishnavi Patel (⭐️4.19)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4908792806?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.38)
