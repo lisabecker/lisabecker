@@ -30,13 +30,12 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [Iron Flame (Part 1 of 2) [Dramatized Adaptation] (The Empyrean, #2)](https://www.goodreads.com/review/show/6511773647?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️3.92)
+- [Iron Flame (Part 1 of 2) [Dramatized Adaptation] (The Empyrean, #2)](https://www.goodreads.com/review/show/6511773647?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.2)
 - [Murtagh (The Inheritance Cycle, #5)](https://www.goodreads.com/review/show/5985132961?utm_medium=api&utm_source=rss) by Christopher Paolini (⭐️4.14)
-- [The Things We Leave Unfinished](https://www.goodreads.com/review/show/6276256551?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.26)
 - [Kaikeyi](https://www.goodreads.com/review/show/5985133688?utm_medium=api&utm_source=rss) by Vaishnavi Patel (⭐️4.19)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4908792806?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.38)
 - [Engineering Management for the Rest of Us](https://www.goodreads.com/review/show/5410320096?utm_medium=api&utm_source=rss) by Sarah Drasner (⭐️4.22)
-- [Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/review/show/6046804690?utm_medium=api&utm_source=rss) by Cal Newport (⭐️3.72)
+- [Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/review/show/6046804690?utm_medium=api&utm_source=rss) by Cal Newport (⭐️3.71)
 <!-- GOODREADS-LIST:END -->
 
 <details>
