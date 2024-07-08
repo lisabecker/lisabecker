@@ -33,7 +33,7 @@
 - [Not in Love](https://www.goodreads.com/review/show/5887297000?utm_medium=api&utm_source=rss) by Ali Hazelwood (⭐️3.72)
 - [Finding Me](https://www.goodreads.com/review/show/6548141283?utm_medium=api&utm_source=rss) by Viola Davis (⭐️4.55)
 - [Murtagh (The Inheritance Cycle, #5)](https://www.goodreads.com/review/show/5985132961?utm_medium=api&utm_source=rss) by Christopher Paolini (⭐️4.13)
-- [Kaikeyi](https://www.goodreads.com/review/show/5985133688?utm_medium=api&utm_source=rss) by Vaishnavi Patel (⭐️4.18)
+- [Kaikeyi](https://www.goodreads.com/review/show/5985133688?utm_medium=api&utm_source=rss) by Vaishnavi Patel (⭐️4.19)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4908792806?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.37)
 - [Engineering Management for the Rest of Us](https://www.goodreads.com/review/show/5410320096?utm_medium=api&utm_source=rss) by Sarah Drasner (⭐️4.22)
 - [Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/review/show/6046804690?utm_medium=api&utm_source=rss) by Cal Newport (⭐️3.7)
