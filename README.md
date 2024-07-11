@@ -12,7 +12,7 @@
     But hey, it's not just about the code! I'm on a mission for ethical AI and am big on <strong>diversity, equity, and inclusion (DEI)</strong> and I'm an <a href="https://rmrkblty.org/">#IAmRemarkable</a> facilitator. In my spare time, I love exploring nature, tending to my indoor garden, playing the cello, doing or teaching yoga, organizing, going to and speaking at meetups, reading books, or playing video games. 🌲🪴🎻🤸🎤📖🎮
 </p>
 
-### 🎤 Public Speaking:
+### 🎤 Talks, articles, ...:
 
 <p>
   Get to know about my past and planned <a href="https://github.com/lisabecker/public-speaking">speaking engagements</a> here. Email me at <a href="beckerlisa93&commat;gmail.com">beckerlisa93&commat;gmail.com</a> if you want me to speak at your event.
