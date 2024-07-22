@@ -30,7 +30,7 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [Iron Flame (Part 2 of 2) [Dramatized Adaptation] (The Empyrean, #2)](https://www.goodreads.com/review/show/6663250411?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.42)
+- [Iron Flame (Part 2 of 2) [Dramatized Adaptation] (The Empyrean, #2)](https://www.goodreads.com/review/show/6663250411?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.41)
 - [Great and Precious Things](https://www.goodreads.com/review/show/6276256221?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.01)
 - [Power And Prediction: The Disruptive Economics of Artificial Intelligence](https://www.goodreads.com/review/show/5362064088?utm_medium=api&utm_source=rss) by Ajay Agrawal (⭐️4.25)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4908792806?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.37)
