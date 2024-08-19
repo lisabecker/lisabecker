@@ -30,12 +30,11 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [Bride](https://www.goodreads.com/review/show/6716584747?utm_medium=api&utm_source=rss) by Ali Hazelwood (⭐️4.03)
-- [The Women](https://www.goodreads.com/review/show/6711439593?utm_medium=api&utm_source=rss) by Kristin Hannah (⭐️4.62)
-- [Power And Prediction: The Disruptive Economics of Artificial Intelligence](https://www.goodreads.com/review/show/5362064088?utm_medium=api&utm_source=rss) by Ajay Agrawal (⭐️4.25)
+- [Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life](https://www.goodreads.com/review/show/4018715912?utm_medium=api&utm_source=rss) by Jon Kabat-Zinn (⭐️4.13)
+- [The Women](https://www.goodreads.com/review/show/6711439593?utm_medium=api&utm_source=rss) by Kristin Hannah (⭐️4.61)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4908792806?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.37)
 - [Engineering Management for the Rest of Us](https://www.goodreads.com/review/show/5410320096?utm_medium=api&utm_source=rss) by Sarah Drasner (⭐️4.21)
-- [Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/review/show/6046804690?utm_medium=api&utm_source=rss) by Cal Newport (⭐️3.7)
+- [Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/review/show/6046804690?utm_medium=api&utm_source=rss) by Cal Newport (⭐️3.69)
 <!-- GOODREADS-LIST:END -->
 
 <details>
