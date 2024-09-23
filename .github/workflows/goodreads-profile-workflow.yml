@@ -1,7 +1,7 @@
 name: Latest book list from a goodreads
 on:
   schedule:
-    - cron: "* * * * 1"
+    - cron: "0 0 * * 1"
   workflow_dispatch:
 jobs:
   update-readme-with-goodreads-books:
