@@ -29,7 +29,7 @@
 <!-- GOODREADS-LIST:START -->
 - [This Book May Save Your Life: Everyday Health Hacks to Worry Less and Live Better](https://www.goodreads.com/review/show/6766793211?utm_medium=api&utm_source=rss) by Karan Rajan (⭐️4.1)
 - [Bookshops & Bonedust (Legends & Lattes, #0)](https://www.goodreads.com/review/show/6869848053?utm_medium=api&utm_source=rss) by Travis Baldree (⭐️4.17)
-- [Masala Lab : The Science of Indian Cooking](https://www.goodreads.com/review/show/6806703309?utm_medium=api&utm_source=rss) by Krish Ashok (⭐️3.71)
+- [Masala Lab : The Science of Indian Cooking](https://www.goodreads.com/review/show/6806703309?utm_medium=api&utm_source=rss) by Krish Ashok (⭐️3.72)
 - [Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life](https://www.goodreads.com/review/show/4018715912?utm_medium=api&utm_source=rss) by Jon Kabat-Zinn (⭐️4.13)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4908792806?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.37)
 <!-- GOODREADS-LIST:END -->
