@@ -27,9 +27,9 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [Hummeldumm](https://www.goodreads.com/review/show/7027155975?utm_medium=api&utm_source=rss) by Tommy Jaud (⭐️3.56)
+- [Variation](https://www.goodreads.com/review/show/6494558792?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.3)
 - [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.goodreads.com/review/show/6988640693?utm_medium=api&utm_source=rss) by Erin Meyer (⭐️4.32)
-- [Beklaute Frauen](https://www.goodreads.com/review/show/6693949862?utm_medium=api&utm_source=rss) by Leonie Schöler (⭐️4.63)
+- [Beklaute Frauen](https://www.goodreads.com/review/show/6693949862?utm_medium=api&utm_source=rss) by Leonie Schöler (⭐️4.62)
 - [Masala Lab : The Science of Indian Cooking](https://www.goodreads.com/review/show/6806703309?utm_medium=api&utm_source=rss) by Krish Ashok (⭐️3.72)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4908792806?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.37)
 <!-- GOODREADS-LIST:END -->
