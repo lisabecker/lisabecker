@@ -27,6 +27,7 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
+- [Deep End](https://www.goodreads.com/review/show/7043352208?utm_medium=api&utm_source=rss) by Ali Hazelwood (⭐️4.25)
 - [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.goodreads.com/review/show/6988640693?utm_medium=api&utm_source=rss) by Erin Meyer (⭐️4.32)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4908792806?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.37)
 <!-- GOODREADS-LIST:END -->
