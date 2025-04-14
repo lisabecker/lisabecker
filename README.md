@@ -27,10 +27,10 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [Sunrise on the Reaping (The Hunger Games, #0.5)](https://www.goodreads.com/review/show/6567155392?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.68)
+- [Never Enough: The Neuroscience and Experience of Addiction](https://www.goodreads.com/review/show/5986582726?utm_medium=api&utm_source=rss) by Judith Grisel (⭐️4.11)
+- [Sunrise on the Reaping (The Hunger Games, #0.5)](https://www.goodreads.com/review/show/6567155392?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.66)
 - [Spark of the Everflame (Kindred's Curse, #1)](https://www.goodreads.com/review/show/7379824753?utm_medium=api&utm_source=rss) by Penn Cole (⭐️4.2)
-- [Freiheit: Erinnerungen 1954 – 2021](https://www.goodreads.com/review/show/7040105191?utm_medium=api&utm_source=rss) by Angela Merkel (⭐️3.97)
-- [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.goodreads.com/review/show/6988640693?utm_medium=api&utm_source=rss) by Erin Meyer (⭐️4.32)
+- [Freiheit: Erinnerungen 1954 – 2021](https://www.goodreads.com/review/show/7040105191?utm_medium=api&utm_source=rss) by Angela Merkel (⭐️3.96)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4908792806?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.37)
 <!-- GOODREADS-LIST:END -->
 
