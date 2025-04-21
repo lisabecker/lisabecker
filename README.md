@@ -27,11 +27,12 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [Never Enough: The Neuroscience and Experience of Addiction](https://www.goodreads.com/review/show/5986582726?utm_medium=api&utm_source=rss) by Judith Grisel (⭐️4.11)
-- [Sunrise on the Reaping (The Hunger Games, #0.5)](https://www.goodreads.com/review/show/6567155392?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.66)
+- [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection](https://www.goodreads.com/review/show/7502868311?utm_medium=api&utm_source=rss) by John Green (⭐️4.53)
+- [The Neuroscientist Who Lost Her Mind: My Tale of Madness and Recovery](https://www.goodreads.com/review/show/5927080405?utm_medium=api&utm_source=rss) by Barbara K. Lipska (⭐️3.79)
+- [Sunrise on the Reaping (The Hunger Games, #0.5)](https://www.goodreads.com/review/show/6567155392?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.64)
 - [Spark of the Everflame (Kindred's Curse, #1)](https://www.goodreads.com/review/show/7379824753?utm_medium=api&utm_source=rss) by Penn Cole (⭐️4.2)
 - [Freiheit: Erinnerungen 1954 – 2021](https://www.goodreads.com/review/show/7040105191?utm_medium=api&utm_source=rss) by Angela Merkel (⭐️3.96)
-- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4908792806?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.37)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4908792806?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
 
 <details>
