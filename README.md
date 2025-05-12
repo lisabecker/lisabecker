@@ -28,8 +28,7 @@
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
 - [All About Love: New Visions](https://www.goodreads.com/review/show/7512028794?utm_medium=api&utm_source=rss) by bell hooks (⭐️4.06)
-- [Spark of the Everflame (Kindred's Curse, #1)](https://www.goodreads.com/review/show/7379824753?utm_medium=api&utm_source=rss) by Penn Cole (⭐️4.2)
-- [Freiheit: Erinnerungen 1954 – 2021](https://www.goodreads.com/review/show/7040105191?utm_medium=api&utm_source=rss) by Angela Merkel (⭐️3.95)
+- [Spark of the Everflame (Kindred's Curse, #1)](https://www.goodreads.com/review/show/7379824753?utm_medium=api&utm_source=rss) by Penn Cole (⭐️4.19)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4908792806?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
 
