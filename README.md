@@ -27,7 +27,7 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [Tales from the Café (Before the Coffee Gets Cold, #2)](https://www.goodreads.com/review/show/7570531095?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.98)
+- [»Mama, bitte lern Deutsch«: Unser Eingliederungsversuch in eine geschlossene Gesellschaft](https://www.goodreads.com/review/show/7450566958?utm_medium=api&utm_source=rss) by Tahsim Durgun (⭐️4.61)
 - [Unmasking AI: My Mission to Protect What Is Human in a World of Machines](https://www.goodreads.com/review/show/6561872215?utm_medium=api&utm_source=rss) by Joy Buolamwini (⭐️4.13)
 - [All About Love: New Visions](https://www.goodreads.com/review/show/7512028794?utm_medium=api&utm_source=rss) by bell hooks (⭐️4.06)
 <!-- GOODREADS-LIST:END -->
