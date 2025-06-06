@@ -38,16 +38,16 @@
   12/42 or 35%
     <ol>
       <li>❌ 1 year of backpacking</li>  
-      <li>✔️ Live in another country</li>
-      <li>✔️ Study in another country</li>
-      <li>✔️ See the Northern Lights</li>
-      <li>❌ Take my mom on a vacation abroad</li>
+      <li>✔️ Live in another country (2016)</li>
+      <li>✔️ Study in another country (2016)</li>
+      <li>✔️ See the Northern Lights (2016)</li>
+      <li>✔️ Take my mom on a vacation abroad (2024)</li>
       <li>❌ Climb a volcano</li>
       <li>❌ Do a glacier tour</li>
       <li>❌ Hike to Everest base camp</li>
       <li>❌ Meet the Dalai Lama</li>
       <li>❌ Do Bible tour</li>
-      <li>✔️ Visit Vatican</li>
+      <li>✔️ Visit Vatican (2008)</li>
       <li>❌ Visit Mecca</li>
       <li>❌ Visit every continent (3/7)</li>
       <li>❌ See the Seven Ancient Wonders of the World (0/7):</li>
@@ -60,11 +60,11 @@
       <li>❌ 7. Lighthouse of Alexandria (or Pharos of Alexandria), Egypt</li>
       <li>❌ See the Seven New Wonders of the World (1/7):</li>
       <li>❌ 1. The Great Wall of China, China</li>
-      <li>❌ 2. Petra, Jordan</li>
+      <li>✔️ 2. Petra, Jordan (2025)</li>
       <li>❌ 3. Christ the Redeemer, Brazil</li>
       <li>❌ 4. Machu Picchu, Peru</li>
       <li>❌ 5. The Pyramid at Chichén Itzá, Mexico</li>
-      <li>✔️ 6. Roman Colosseum (or Coliseum), Italy</li>
+      <li>✔️ 6. Roman Colosseum, Italy (2008)</li>
       <li>❌ 7. Taj Mahal, India</li>
       <li>✔️ Author a <a href="https://www.researchgate.net/publication/344606950_Computer-Based_Classification_of_Preservice_Physics_Teachers'_Written_Reflections">paper</a></li>
       <li>❌ Write a book</li>
@@ -74,8 +74,9 @@
       <li>✔️ Scuba dive (now a PADI certified Rescue Diver)</li>
       <li>❌ Sky dive</li>
       <li>✔️ Float in a tank</li>
-      <li>✔️ Ride a hot air balloon (Atlas Mountains, Morocco, May 2023)</li>
-      <li>✔️ Take a meditation retreat (Vipassana, 10 days, March 2019)</li>
+      <li>✔️ Ride a hot air balloon (Atlas Mountains, Morocco, 2023)</li>
+      <li>✔️ Ride a helicopter (Namibia, 2024)</li>
+      <li>✔️ Take a meditation retreat (Vipassana, 10 days, 2019)</li>
       <li>✔️ Become a certified yoga teacher</li>
       <li>❌ Speak at TED</li>
       <li>❌ Participate in a Science Slam</li>
