@@ -27,9 +27,8 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [Problematic Summer Romance (Not in Love, #2)](https://www.goodreads.com/review/show/7517834980?utm_medium=api&utm_source=rss) by Ali Hazelwood (⭐️4.19)
-- [Unmasking AI: My Mission to Protect What Is Human in a World of Machines](https://www.goodreads.com/review/show/6561872215?utm_medium=api&utm_source=rss) by Joy Buolamwini (⭐️4.13)
-- [All About Love: New Visions](https://www.goodreads.com/review/show/7512028794?utm_medium=api&utm_source=rss) by bell hooks (⭐️4.06)
+- [Problematic Summer Romance (Not in Love, #2)](https://www.goodreads.com/review/show/7517834980?utm_medium=api&utm_source=rss) by Ali Hazelwood (⭐️4.1)
+- [All About Love: New Visions](https://www.goodreads.com/review/show/7512028794?utm_medium=api&utm_source=rss) by bell hooks (⭐️4.05)
 <!-- GOODREADS-LIST:END -->
 
 <details>
