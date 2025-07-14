@@ -27,9 +27,10 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
+- [Onyx Storm (Part 1 of 2) [Dramatized Adaptation] (The Empyrean, #3)](https://www.goodreads.com/review/show/7733891510?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.62)
+- [AuDHD: Blooming Differently](https://www.goodreads.com/review/show/7702959547?utm_medium=api&utm_source=rss) by Leanne Maskell (⭐️4.28)
+- [Big Dating Energy: How to Create Lasting Love by Tapping Into Your Authentic Self](https://www.goodreads.com/review/show/5991295933?utm_medium=api&utm_source=rss) by Jeff Guenther (⭐️4.23)
 - [Before Your Memory Fades (Before the Coffee Gets Cold, #3)](https://www.goodreads.com/review/show/7653235438?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.89)
-- [Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past](https://www.goodreads.com/review/show/6824276857?utm_medium=api&utm_source=rss) by David  Reich (⭐️4.11)
-- [Problematic Summer Romance (Not in Love, #2)](https://www.goodreads.com/review/show/7517834980?utm_medium=api&utm_source=rss) by Ali Hazelwood (⭐️3.96)
 <!-- GOODREADS-LIST:END -->
 
 <details>
