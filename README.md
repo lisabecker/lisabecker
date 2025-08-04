@@ -28,7 +28,7 @@
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
 - [ALGOSPEAK](https://www.goodreads.com/review/show/6568425870?utm_medium=api&utm_source=rss) by Adam Aleksic (⭐️)
-- [Onyx Storm (Part 1 of 2) [Dramatized Adaptation] (The Empyrean, #3)](https://www.goodreads.com/review/show/7733891510?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.62)
+- [Onyx Storm (Part 1 of 2) [Dramatized Adaptation] (The Empyrean, #3)](https://www.goodreads.com/review/show/7733891510?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.61)
 - [Big Dating Energy: How to Create Lasting Love by Tapping Into Your Authentic Self](https://www.goodreads.com/review/show/5991295933?utm_medium=api&utm_source=rss) by Jeff Guenther (⭐️4.22)
 - [Before Your Memory Fades (Before the Coffee Gets Cold, #3)](https://www.goodreads.com/review/show/7653235438?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.89)
 <!-- GOODREADS-LIST:END -->
