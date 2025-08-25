@@ -27,9 +27,8 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
+- [The Doors of Perception & Heaven and Hell](https://www.goodreads.com/review/show/7853655759?utm_medium=api&utm_source=rss) by Aldous Huxley (⭐️3.94)
 - [Come as You Are: The Surprising New Science that Will Transform Your Sex Life](https://www.goodreads.com/review/show/7593371442?utm_medium=api&utm_source=rss) by Emily Nagoski (⭐️4.28)
-- [The Enchanted Greenhouse (Spellshop, #2)](https://www.goodreads.com/review/show/7746218842?utm_medium=api&utm_source=rss) by Sarah Beth Durst (⭐️4.28)
-- [ALGOSPEAK](https://www.goodreads.com/review/show/6568425870?utm_medium=api&utm_source=rss) by Adam Aleksic (⭐️)
 - [Onyx Storm (Part 1 of 2) [Dramatized Adaptation] (The Empyrean, #3)](https://www.goodreads.com/review/show/7733891510?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.61)
 - [Big Dating Energy: How to Create Lasting Love by Tapping Into Your Authentic Self](https://www.goodreads.com/review/show/5991295933?utm_medium=api&utm_source=rss) by Jeff Guenther (⭐️4.22)
 - [Before Your Memory Fades (Before the Coffee Gets Cold, #3)](https://www.goodreads.com/review/show/7653235438?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.89)
