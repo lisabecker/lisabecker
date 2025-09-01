@@ -27,10 +27,10 @@
 
 ### 📚 Books I'm reading right now:
 <!-- GOODREADS-LIST:START -->
-- [The Doors of Perception & Heaven and Hell](https://www.goodreads.com/review/show/7853655759?utm_medium=api&utm_source=rss) by Aldous Huxley (⭐️3.94)
+- [How to Change Your Mind: The New Science of Psychedelics](https://www.goodreads.com/review/show/7775014975?utm_medium=api&utm_source=rss) by Michael Pollan (⭐️4.25)
+- [Waking the Tiger: Healing Trauma](https://www.goodreads.com/review/show/7870351781?utm_medium=api&utm_source=rss) by Peter A. Levine (⭐️4.06)
 - [Come as You Are: The Surprising New Science that Will Transform Your Sex Life](https://www.goodreads.com/review/show/7593371442?utm_medium=api&utm_source=rss) by Emily Nagoski (⭐️4.28)
 - [Onyx Storm (Part 1 of 2) [Dramatized Adaptation] (The Empyrean, #3)](https://www.goodreads.com/review/show/7733891510?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.61)
-- [Big Dating Energy: How to Create Lasting Love by Tapping Into Your Authentic Self](https://www.goodreads.com/review/show/5991295933?utm_medium=api&utm_source=rss) by Jeff Guenther (⭐️4.22)
 - [Before Your Memory Fades (Before the Coffee Gets Cold, #3)](https://www.goodreads.com/review/show/7653235438?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.89)
 <!-- GOODREADS-LIST:END -->
 
