@@ -25,14 +25,15 @@
     </li>
 </ul>
 
-### 📚 Books I'm reading right now:
-<!-- GOODREADS-LIST:START -->
-- [How to Change Your Mind: The New Science of Psychedelics](https://www.goodreads.com/review/show/7775014975?utm_medium=api&utm_source=rss) by Michael Pollan (⭐️4.25)
-- [Waking the Tiger: Healing Trauma](https://www.goodreads.com/review/show/7870351781?utm_medium=api&utm_source=rss) by Peter A. Levine (⭐️4.06)
-- [Come as You Are: The Surprising New Science that Will Transform Your Sex Life](https://www.goodreads.com/review/show/7593371442?utm_medium=api&utm_source=rss) by Emily Nagoski (⭐️4.28)
-- [Onyx Storm (Part 1 of 2) [Dramatized Adaptation] (The Empyrean, #3)](https://www.goodreads.com/review/show/7733891510?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.61)
-- [Before Your Memory Fades (Before the Coffee Gets Cold, #3)](https://www.goodreads.com/review/show/7653235438?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.89)
-<!-- GOODREADS-LIST:END -->
+<div>
+  <h3>🤖 Some Numbers:</h3>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=lisabecker&show_icons=true&locale=en&theme=shadow_green" alt="Lisa Becker's GitHub statistics"></p>
+</div>
+
+<div>
+  <h3>✍️ Most recent Medium article:</h3>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@becker-lisa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@becker-lisa/0" alt="Lisa's most recent Medium article"></a>
+</div>
 
 <details>
     <summary><h3>📝 List 100</h3></summary>
@@ -44,7 +45,7 @@
       <li>✔️ Study in another country (2016)</li>
       <li>✔️ See the Northern Lights (2016)</li>
       <li>✔️ Take my mom on a vacation abroad (2024)</li>
-      <li>❌ Climb a volcano</li>
+      <li>✔️ Climb a volcano</li>
       <li>❌ Do a glacier tour</li>
       <li>❌ Hike to Everest base camp</li>
       <li>❌ Meet the Dalai Lama</li>
@@ -86,21 +87,3 @@
       <li>✔️ Take a DNA test</li>
     </ol>
 </details>
-
-<div>
-  <h3>🤖 Some Numbers:</h3>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=lisabecker&show_icons=true&locale=en&theme=shadow_green" alt="Lisa Becker's GitHub statistics"></p>
-</div>
-
-<div>
-    <h3>🎶 Now Playing on Spotify:</h3>
-    <a href="https://open.spotify.com/user/shiba93">
-        <img src="https://novatorem.lisabecker.vercel.app/api/spotify" alt="Spotify">
-    </a>
-</div>
-
-<div>
-  <h3>✍️ Most recent Medium article:</h3>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@becker-lisa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@becker-lisa/0" alt="Lisa's most recent Medium article"></a>
-</div>
-
