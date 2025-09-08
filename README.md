@@ -25,12 +25,4 @@
     </li>
 </ul>
 
-<div>
-  <h3>🤖 Some Numbers:</h3>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=lisabecker&show_icons=true&locale=en&theme=shadow_green" alt="Lisa Becker's GitHub statistics"></p>
-</div>
-
-<div>
-  <h3>✍️ Most recent Medium article:</h3>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@becker-lisa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@becker-lisa/0" alt="Lisa's most recent Medium article"></a>
-</div>
+<p><img src="https://github-readme-stats.vercel.app/api?username=lisabecker&show_icons=true&locale=en&theme=shadow_green" alt="Lisa Becker's GitHub statistics"></p>
