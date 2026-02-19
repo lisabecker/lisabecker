@@ -21,8 +21,6 @@
 <h3>🚀 Current Personal Projects:</h3>
 <ul>
     <li>
-      <a href="https://www.coursera.org/professional-certificates/devops-and-software-engineering">IBM DevOps and Software Engineering</a> certificate on Coursera   
+      <a href="https://www.skills.google/paths/2272">Google Project Management Certificate</a>
     </li>
 </ul>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=lisabecker&show_icons=true&locale=en&theme=shadow_green" alt="Lisa Becker's GitHub statistics"></p>
